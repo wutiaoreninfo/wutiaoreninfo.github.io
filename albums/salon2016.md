@@ -1,7 +1,5 @@
 
-<img src="https://img1.doubanio.com/view/subject/m/public/s29239417.jpg">
-
-
+<img src="{{site.cdn}}/assets/imgs/salon2016.jpg">
 
 #### 曲目
 

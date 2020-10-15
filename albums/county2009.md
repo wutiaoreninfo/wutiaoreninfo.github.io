@@ -1,9 +1,9 @@
 
-<img src="https://img9.doubanio.com/view/subject/m/public/s3886025.jpg">
+<img src="{{site.cdn}}/assets/imgs/county2009.jpg">
 
 #### 曲目
 
-1. 十年水流东，十年水流西
+1. [十年水流东，十年水流西]({% link _songs/tenyears.md %})
 2. 道山靓仔
 3. 倒港纸（兑港币）
 4. 乐乐哭哭

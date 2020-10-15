@@ -1,5 +1,5 @@
 
-<img src="https://img9.doubanio.com/view/subject/m/public/s28021714.jpg">
+<img src="{{site.cdn}}/assets/imgs/cantongirl2015.jpg">
 
 #### 曲目
 

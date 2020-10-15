@@ -28,6 +28,10 @@ collections:
     title: 访谈
     default_open: true
     output: true
+  songs:
+    title: 歌曲
+    default_open: true
+    output: true
 
 defaults:
   - scope:
@@ -41,13 +45,18 @@ defaults:
       title: News
       permalink: /news/:title
   - scope:
-      type: interviews
+      type: Interviews
     values:
       title: 访谈
       permalink: /interviews/:title
+  - scope:
+      type: Songs
+    values:
+      title: 歌曲
+      permalink: /songs/:title    
 
 plugins:
   - jekyll-sitemap
 
-cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io"
-# cdn: ""
+#cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io@latest"
+cdn: ""

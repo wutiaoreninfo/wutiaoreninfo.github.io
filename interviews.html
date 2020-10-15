@@ -3,6 +3,19 @@ layout: page
 title: 访谈
 ---
 
-{% for post in site.interviews %}
-    {{ post.title }}
+{% assign postsByYear = site.interviews | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year in postsByYear %}
+<h3 class="home-page-heading">{{ year.name }}</h3>
+<ul  class="year-post-list" >
+    {% assign sortItem = year.items | reverse %}
+    {% for post in sortItem %}
+    <li>
+      <span class="post-date">{{ post.date | date: '%m-%d' }}&nbsp;
+      <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
+      </span>
+    </li>
+    {% endfor %}
+  </ul>
+
 {% endfor %}

@@ -1,5 +1,5 @@
 
-<img src="https://img3.doubanio.com/view/subject/m/public/s33705311.jpg">
+<img src="{{site.cdn}}/assets/imgs/drunkdog2020.jpg">
 
 #### 曲目
 

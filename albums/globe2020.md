@@ -1,5 +1,5 @@
 
-<img src="https://img1.doubanio.com/view/subject/m/public/s33697397.jpg">
+<img src="{{site.cdn}}/assets/imgs/globe2020.jpg">
 
 #### 曲目
 

@@ -1,6 +1,6 @@
 
 
-<img src="https://img3.doubanio.com/view/subject/m/public/s30008072.jpg">
+<img src="{{site.cdn}}/assets/imgs/stories2018.jpg">
 
 #### 曲目
 
