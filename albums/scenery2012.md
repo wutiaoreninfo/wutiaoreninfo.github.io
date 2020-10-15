@@ -1,5 +1,5 @@
 
-<img src="{{site.cdn}}/assets/imgs/scenery2012.jpg">
+<img src="https://img3.doubanio.com/view/subject/m/public/s33726402.jpg">
 
 #### 曲目
 

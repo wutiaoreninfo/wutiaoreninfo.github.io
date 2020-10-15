@@ -1,5 +1,5 @@
 
-<img src="{{site.cdn}}/assets/imgs/county2009.jpg">
+<img src="https://img9.doubanio.com/view/subject/m/public/s3886025.jpg">
 
 #### 曲目
 
