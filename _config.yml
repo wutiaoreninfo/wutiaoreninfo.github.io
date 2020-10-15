@@ -24,6 +24,10 @@ collections:
     title: Essays
     default_open: true
     output: true
+  interviews:
+    title: 访谈
+    default_open: true
+    output: true
 
 defaults:
   - scope:
@@ -36,6 +40,14 @@ defaults:
     values:
       title: News
       permalink: /news/:title
+  - scope:
+      type: interviews
+    values:
+      title: 访谈
+      permalink: /interviews/:title
 
 plugins:
   - jekyll-sitemap
+
+# cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io"
+cdn: ""

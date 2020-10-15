@@ -2,3 +2,7 @@
 layout: page
 title: 访谈
 ---
+
+{% for post in site.interviews %}
+    {{ post.title }}
+{% endfor %}

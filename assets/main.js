@@ -1,5 +1,5 @@
-const light = '白天模式',
-      dark = '夜间模式';
+const light = '日间',
+      dark = '夜间';
 
 document.addEventListener("DOMContentLoaded", () => {
   init();

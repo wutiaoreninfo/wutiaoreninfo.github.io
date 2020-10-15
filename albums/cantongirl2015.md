@@ -1,5 +1,5 @@
 
-#### 封面
+<img src="{{site.cdn}}/assets/imgs/cantongirl2015.jpg">
 
 #### 曲目
 

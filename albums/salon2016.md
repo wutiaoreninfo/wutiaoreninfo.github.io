@@ -1,5 +1,5 @@
 
-#### 封面
+<img src="{{site.cdn}}/assets/imgs/salon2016.jpg">
 
 #### 曲目
 
