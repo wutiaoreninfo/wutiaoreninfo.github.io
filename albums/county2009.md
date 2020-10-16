@@ -5,8 +5,8 @@
 
 1. [十年水流东，十年水流西]({% link _songs/tenyears.md %})
 2. [道山靓仔]({% link _songs/daoshan.md %})
-3. 倒港纸（兑港币）
-4. 乐乐哭哭
+3. [倒港纸（兑港币）]({% link _songs/hkd.md %})
+4. [乐乐哭哭]({% link _songs/mess.md %})
 5. 踏架脚车牵条猪（骑辆单车牵头猪）
 6. 李阿伯
 7. 梦想化工厂
