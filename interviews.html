@@ -3,7 +3,7 @@ layout: page
 title: 访谈
 ---
 
-{% assign postsByYear = site.interviews | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.interviews | group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
 
 {% for year in postsByYear %}
 <details open>
