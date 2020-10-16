@@ -32,6 +32,17 @@ layout: default
       {{content}}
     </section>
 
+    {% if page.related %}
+      <hr class="stylish"/>
+      <h4>相关链接</h4>
+      <ul>
+      {% for related in page.related %}
+      <li>
+        <a href={{related.url}}> {{ related.title}} </a>
+      </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
     {% comment %}
     <hr class="stylish"/>    
     {% include featured.html %}
