@@ -6,7 +6,7 @@ title: 访谈
 {% assign postsByYear = site.interviews | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 {% for year in postsByYear %}
-<details>
+<details open>
 <summary>
 <h3 class="home-page-heading">{{ year.name }}</h3>
 </summary>

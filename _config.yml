@@ -16,10 +16,6 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  news:
-    title: News
-    default_open: false
-    output: true
   posts:
     title: Essays
     default_open: true
@@ -39,11 +35,6 @@ defaults:
     values:
       title: Essays
       permalink: /post/:title
-  - scope:
-      type: news
-    values:
-      title: News
-      permalink: /news/:title
   - scope:
       type: Interviews
     values:

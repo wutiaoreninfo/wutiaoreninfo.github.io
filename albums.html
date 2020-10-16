@@ -28,6 +28,12 @@ title: 专辑
 </details>
 
 <details>
+  <summary> <h3 class="home-page-heading">陈木莲（2015）</h3></summary>
+{% capture my_include %}{% include_relative albums/chenmulian2015.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</details>
+
+<details>
   <summary> <h3 class="home-page-heading">梦幻丽莎发廊（2016）</h3></summary>
 {% capture my_include %}{% include_relative albums/salon2016.md %}{% endcapture %}
 {{ my_include | markdownify }}
@@ -54,5 +60,11 @@ title: 专辑
 <details>
   <summary> <h3 class="home-page-heading">乐队的夏天（2020）</h3></summary>
 {% capture my_include %}{% include_relative albums/bigband2020.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</details>
+
+<details>
+  <summary> <h3 class="home-page-heading">厨房的故事（2020）</h3></summary>
+{% capture my_include %}{% include_relative albums/kitchen2020.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </details>
