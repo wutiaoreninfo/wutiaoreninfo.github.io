@@ -3,6 +3,8 @@ layout: page
 title: 访谈
 ---
 
+<p><b>建议点开「原文」链接查看，排版、图片、视频等内容更为丰富</b></p>
+
 {% assign postsByYear = site.interviews | group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
 
 {% for year in postsByYear %}

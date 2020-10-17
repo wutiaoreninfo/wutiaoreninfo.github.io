@@ -35,6 +35,13 @@ img {
   margin: 0 auto;
 }
 
+img + em { 
+  display: block;
+  max-width: 100%;
+  text-align: center;
+  color: rgb(77,77,77);
+}
+
 code, pre {
   font-family: monospace;
   background-color: #eee;
