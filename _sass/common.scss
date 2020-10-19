@@ -305,6 +305,15 @@ table {
   margin: 1rem 0;
 }
 
+.quotes {
+  text-align: center;
+  font-weight: bold;
+}
+
+.quotealbum {
+  text-align: center;
+}
+
 // media queries
 @media screen and (max-width: 700px) {
   body {
