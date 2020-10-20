@@ -44,7 +44,7 @@ defaults:
       type: Videos
     values:
       title: 视频
-      permalink: /live/:title
+      permalink: /videos/:title
 
 plugins:
   - jekyll-sitemap
