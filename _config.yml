@@ -6,15 +6,6 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-featured_posts_title: Unrelated
-featured_posts:
-  - url: '#'
-    title: 'Featured post #1'
-  - url: '#'
-    title: 'Featured post #2'
-  - url: '#'
-    title: 'Featured post #3'
-
 collections:
   posts:
     title: Essays
@@ -26,6 +17,10 @@ collections:
     output: true
   songs:
     title: 歌曲
+    default_open: true
+    output: true
+  videos:
+    title: 视频
     default_open: true
     output: true
 
@@ -44,7 +39,12 @@ defaults:
       type: Songs
     values:
       title: 歌曲
-      permalink: /songs/:title    
+      permalink: /songs/:title
+  - scope:
+      type: Videos
+    values:
+      title: 视频
+      permalink: /live/:title
 
 plugins:
   - jekyll-sitemap
