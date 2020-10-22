@@ -46,8 +46,8 @@ defaults:
       title: 视频
       permalink: /videos/:title
 
-plugins:
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-sitemap
 
 cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io@main"
 #cdn: ""
