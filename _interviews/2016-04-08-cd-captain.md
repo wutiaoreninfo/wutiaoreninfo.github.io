@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 【唱片隊長】Bonus 4 五条人：把故事都唱出来 | 艺人专访
+title: 【唱片隊長|陈小椒】Bonus 4 五条人：把故事都唱出来 | 艺人专访
 date: 2016-04-08 22:00
 tags:
 - 访谈
-related:
-- url: https://mp.weixin.qq.com/s/31skriWyIVCAOJrep0NGEg
-  title: 《乐队的夏天》上被京圈摇滚围攻的五条人，到底哪错了？
 ---
 **原文**：
 [Bonus 4 # 五条人：把故事都唱出来 | 艺人专访](https://mp.weixin.qq.com/s/WuIs0xJVHzDWqacWUQmPpQ)

@@ -2,7 +2,7 @@
 layout: page
 title: 报道
 ---
-<h2>报道、评论等</h2>
+<h2>报道、评论、往来记录等</h2>
 
 {% assign postsByYear = site.reports | group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
 

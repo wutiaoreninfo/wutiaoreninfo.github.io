@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【张晓舟】豪猪或走鬼
+title: 【博客|张晓舟】豪猪或走鬼
 date: 2013-04-01 12:29
 tags:
 - 评论
