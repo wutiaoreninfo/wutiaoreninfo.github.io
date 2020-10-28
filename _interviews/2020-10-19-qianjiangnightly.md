@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 **原文**：
-[对话 | 五条人：名和利来了吗？简直是被包裹着！](https://rss1.thehour.cn/news24/zaker/article/405405)
+[对话 | 五条人：名和利来了吗？简直是被包裹着！](https://rss1.thehour.cn/news24/zaker/article/405405){:target="_blank"}
 
 **钱江晚报·小时新闻记者 陈宇浩**
 

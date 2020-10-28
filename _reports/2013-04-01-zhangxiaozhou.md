@@ -6,7 +6,7 @@ tags:
 - 评论
 ---
 **原文**:
-[豪猪或走鬼-张晓舟-财新博客-财新网](http://zhangxiaozhou.blog.caixin.com/archives/54928)
+[豪猪或走鬼-张晓舟-财新博客-财新网](http://zhangxiaozhou.blog.caixin.com/archives/54928){:target="_blank"}
 
 含叭哩细！含叭哩细！含叭哩细！含叭哩细！
 

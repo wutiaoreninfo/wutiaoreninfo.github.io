@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 **原文**：
-[久别皖市 | 像专访五条人那样讲故事](https://mp.weixin.qq.com/s/v3fHQ9_XbRyJuWf4nTKdiA)
+[久别皖市 | 像专访五条人那样讲故事](https://mp.weixin.qq.com/s/v3fHQ9_XbRyJuWf4nTKdiA){:target="_blank"}
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/scOEwlz4lq7UkaoGwJ8P6UeBPXaiaG8t4xU5RJ93AySypP0KYh7lnCFhUsLcvYrAjVU7ZUwRbiaS6JicRUm4JEIhw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 

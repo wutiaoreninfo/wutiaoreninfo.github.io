@@ -6,7 +6,7 @@ tags:
 - 报道
 ---
 **原文**：
-[【專訪】當Bob Dylan都得了諾獎，也許是時候聽聽五條人](https://glassonionhk.com/2017/04/11/wutiaoren_guangzhou/)
+[【專訪】當Bob Dylan都得了諾獎，也許是時候聽聽五條人](https://glassonionhk.com/2017/04/11/wutiaoren_guangzhou/){:target="_blank"}
 
 五條人究竟是幾個人？
 

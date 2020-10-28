@@ -6,7 +6,7 @@ tags:
 - 报道
 ---
 **原文**：
-[专访五条人：爱情在发廊里撒谎，音乐在石牌桥成精](https://mp.weixin.qq.com/s/fHnTd7qQ8ml4dgS1DnX8Ew)
+[专访五条人：爱情在发廊里撒谎，音乐在石牌桥成精](https://mp.weixin.qq.com/s/fHnTd7qQ8ml4dgS1DnX8Ew){:target="_blank"}
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/qVlV5bTiciaHoq8lR5bAk5eWQ9A8lBAByAfr1arBWZCbW9WeV0sAQhw29eWO0UnozzATJSaW6cbetykOvbTJg2EA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 **原文**：
-[再谈五条人：县城没有美学，只有生活](https://mp.weixin.qq.com/s/OD3pHNAgPHJsu-lleG3P9A)
+[再谈五条人：县城没有美学，只有生活](https://mp.weixin.qq.com/s/OD3pHNAgPHJsu-lleG3P9A){:target="_blank"}
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/aP7vrTpXJxRA0ViaNRqia18YGj5LgX4VSibTFXfBlkXZakYUA8yBkEQYYmpmDmxH0IZyeY4oUcOiabiaj1PywxF6StQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 

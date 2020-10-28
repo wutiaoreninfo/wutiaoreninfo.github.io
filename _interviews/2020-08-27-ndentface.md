@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 **原文**：
-[“道山靓仔”五条人：我们就像蟑螂，在太空中都能存活很久](https://mp.weixin.qq.com/s?__biz=MzAwNDUwMTY4OQ==&mid=2650448989&idx=1&sn=083b6c1150127cbf0bd8470cbf8b5f99&chksm=8324fd8bb453749ddc5320141994c6526d47a912c690d75edafcd67b788015ccd89fbcac44ba#rd)
+[“道山靓仔”五条人：我们就像蟑螂，在太空中都能存活很久](https://mp.weixin.qq.com/s?__biz=MzAwNDUwMTY4OQ==&mid=2650448989&idx=1&sn=083b6c1150127cbf0bd8470cbf8b5f99&chksm=8324fd8bb453749ddc5320141994c6526d47a912c690d75edafcd67b788015ccd89fbcac44ba#rd){:target="_blank"}
 
 **本文原创自微信公众号“娱乐脸谱”，微信号：ndentface**
 

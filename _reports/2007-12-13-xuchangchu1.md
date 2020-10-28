@@ -6,7 +6,7 @@ tags:
 - 往来
 ---
 **原文**：
-[许昌锄1_我是郑枫_新浪博客](http://blog.sina.com.cn/s/blog_4fdfc95d01007ur9.html)
+[许昌锄1_我是郑枫_新浪博客](http://blog.sina.com.cn/s/blog_4fdfc95d01007ur9.html){:target="_blank"}
 
 许昌锄喜欢说事。
 

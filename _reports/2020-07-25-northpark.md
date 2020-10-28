@@ -6,7 +6,7 @@ tags:
 - 报道
 ---
 **原文**：
-[五条人：生活在此处](https://mp.weixin.qq.com/s/poeSbGoKP3l9v3xsvAqObQ)
+[五条人：生活在此处](https://mp.weixin.qq.com/s/poeSbGoKP3l9v3xsvAqObQ){:target="_blank"}
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/0errfE641Pnu3WPtibx3tOqfDP725esCoykal1ZLA2LBrLeiaONjA27ZK4Ae5ficISpzMX4WOqqBESUjXJibEEEDKg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 

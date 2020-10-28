@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 **原文**：
-[五条人复活了！这只宝藏乐队是长在热搜上了吗](https://mp.weixin.qq.com/s/9O9DwlI5iSuQrZ8bpV4sWQ)
+[五条人复活了！这只宝藏乐队是长在热搜上了吗](https://mp.weixin.qq.com/s/9O9DwlI5iSuQrZ8bpV4sWQ){:target="_blank"}
 
 ![](https://wx1.sinaimg.cn/large/006yk21nly1ghlrsc8zz2j30u01hcaih.jpg)
 

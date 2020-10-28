@@ -7,7 +7,7 @@ tags:
 ---
 
 **原文**： 
-[我把五条人给坑了...](https://mp.weixin.qq.com/s/yfWB_R2IpxKTK921Zqg3qA)
+[我把五条人给坑了...](https://mp.weixin.qq.com/s/yfWB_R2IpxKTK921Zqg3qA){:target="_blank"}
 
 如果你是个民谣狗，你不可能没有听过五条人。  
 

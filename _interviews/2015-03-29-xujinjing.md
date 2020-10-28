@@ -8,7 +8,7 @@ tags:
 **注**：本文 2020 年 9 月 21 日发表于群学书院微信公众号。
 
 **原文**：
-[专访五条人主唱仁科：他们挑战了许多被“精心打扮”的虚假审美](https://mp.weixin.qq.com/s/A9znfcnKLeNdLx8yKL0bjg)
+[专访五条人主唱仁科：他们挑战了许多被“精心打扮”的虚假审美](https://mp.weixin.qq.com/s/A9znfcnKLeNdLx8yKL0bjg){:target="_blank"}
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/VE9ft5yObniasvFLRXiaKDxq8BR62e1MuXcJZqp33yLvviaYx6k1UCftBeTD4XTibDuZz5NMa5jcg22VNhqrOUH5icg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 

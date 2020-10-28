@@ -6,7 +6,7 @@ tags:
 - 往来
 ---
 **原文**：
-[许昌锄*密谋_我是郑枫_新浪博客](http://blog.sina.com.cn/s/blog_4fdfc95d01008phd.html)
+[许昌锄*密谋_我是郑枫_新浪博客](http://blog.sina.com.cn/s/blog_4fdfc95d01008phd.html){:target="_blank"}
 
 许昌锄最近在密谋一件事情，密谋的对象之一就是我，密谋的中心是开一家具备可发展性的文艺活动场所，发展的项目是卖打口CD和工艺品和茶饮。
 

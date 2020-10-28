@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 **原文**：
-[專訪五條人｜不要去討好別人，討好別人會死得很慘](https://mp.weixin.qq.com/s/vqlv7nqfjoMcl97WlGAqbw)
+[專訪五條人｜不要去討好別人，討好別人會死得很慘](https://mp.weixin.qq.com/s/vqlv7nqfjoMcl97WlGAqbw){:target="_blank"}
 
 ![](http://mmbiz.qpic.cn/mmbiz/BCRN25mC969m3dIlIredeFB0ibfq4bjUuXicKUIwkj7NQqzpjFP9SZLkAUOorPqBziafJ0vdloYgLXarsZqvibZFLg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)  
 

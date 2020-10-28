@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 **原文**：
-[Bonus 4 # 五条人：把故事都唱出来 | 艺人专访](https://mp.weixin.qq.com/s/WuIs0xJVHzDWqacWUQmPpQ)
+[Bonus 4 # 五条人：把故事都唱出来 | 艺人专访](https://mp.weixin.qq.com/s/WuIs0xJVHzDWqacWUQmPpQ){:target="_blank"}
 
 ## 1
 

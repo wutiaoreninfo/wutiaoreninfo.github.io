@@ -5,7 +5,7 @@ date: 2015-03-18 17:11
 tags:
 - 访谈
 ---
-**原文**：[五条人专访｜创作本身就是很好玩的事](https://mp.weixin.qq.com/s/444NJc7aWddH6cv7KuTF5Q)
+**原文**：[五条人专访｜创作本身就是很好玩的事](https://mp.weixin.qq.com/s/444NJc7aWddH6cv7KuTF5Q){:target="_blank"}
 
 ![](http://mmbiz.qpic.cn/mmbiz/SpicEmxPfPubN9icua4Vkns9ibO2iat3nUiaXiarAiaX8djKELMD8MoIb36wztFPhd0mEojzR7RhvVatnnCzCd3M6ibItw/640?tp=webp&wxfrom=5)
 

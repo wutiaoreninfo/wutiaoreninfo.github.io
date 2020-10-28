@@ -6,7 +6,7 @@ tags:
 - 访谈
 ---
 
-**原文**：[专访五條人乐队丨创作的“虚构”与“超真实”](https://mp.weixin.qq.com/s/i3bTBDbvzbfUSeUgeSXjHQ)
+**原文**：[专访五條人乐队丨创作的“虚构”与“超真实”](https://mp.weixin.qq.com/s/i3bTBDbvzbfUSeUgeSXjHQ){:target="_blank"}
 
 本期采访&文案：凌曦  
 本期受访：五條人乐队   茂涛    
