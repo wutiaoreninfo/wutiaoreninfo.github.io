@@ -8,6 +8,6 @@ tags:
 
 **注**：本文收录于诗人和作家廖伟棠的音乐随笔集《異托邦指南 詩與歌卷：暴雨反對》（2020），简体中文版收录于《反调：音乐随笔》（2014）。
 
-![](/assets/imgs/liaoweitang-1.png)
-![](/assets/imgs/liaoweitang-2.png)
-![](/assets/imgs/liaoweitang-3.png)
+![]({{site.cdn}}/assets/imgs/liaoweitang-1.png)
+![]({{site.cdn}}/assets/imgs/liaoweitang-2.png)
+![]({{site.cdn}}/assets/imgs/liaoweitang-3.png)
