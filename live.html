@@ -23,6 +23,16 @@ title: 影像
     </div>
 {% endfor %}
 
+<h2>演出</h2>
+{% assign videos = site.videos | where: "category", "liveshow"  | reverse %}
+
+{% for post in videos %}
+    <div class="post-wrapper">
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
+    </div>
+{% endfor %}
+
 <h2>MV</h2>
 {% assign videos = site.videos | where: "category", "mv"  | reverse %}
 
@@ -34,12 +44,3 @@ title: 影像
 {% endfor %}
 
 
-<h2>演唱</h2>
-{% assign videos = site.videos | where: "category", "liveshow"  | reverse %}
-
-{% for post in videos %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
