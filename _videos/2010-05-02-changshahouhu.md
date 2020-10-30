@@ -7,7 +7,7 @@ tags:
  - 演出
 ---
 **地点**：长沙岳麓区锦绣潇湘创意园  
-**土豆网视频地址**：[2010长沙后湖音乐节-五条人](https://video.tudou.com/v/XMTc3ODU4MzE2.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2)
+**土豆网视频地址**：[2010长沙后湖音乐节-五条人](https://video.tudou.com/v/XMTc3ODU4MzE2.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2){:target="_blank"}
 
 ## 曲目
 
