@@ -6,7 +6,7 @@ tags:
 - 县城记（2009）
 ---
 
-<audio controls autoplay loop  src="https://win-web-ri01-sycdn.kuwo.cn/df29bda10543709060117ccfc7d7e575/5f9cc9b8/resource/n1/16/87/2913970095.mp3">
+<audio controls autoplay loop  src="https://eq-sycdn.kuwo.cn/38a6673b1b312f6983ab22aa57e95956/5f9ccd7a/resource/n2/72/31/1335209077.mp3">
 您的浏览器不支持 audio 标签。
 </audio>
 
