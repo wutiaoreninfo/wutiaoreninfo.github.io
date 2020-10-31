@@ -5,6 +5,11 @@ tags:
 - 歌曲
 - 县城记（2009）
 ---
+
+<audio controls autoplay loop  src="https://win-web-ri01-sycdn.kuwo.cn/df29bda10543709060117ccfc7d7e575/5f9cc9b8/resource/n1/16/87/2913970095.mp3">
+您的浏览器不支持 audio 标签。
+</audio>
+
 ## 歌词
 **道山靓仔**
 

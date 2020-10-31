@@ -5,6 +5,10 @@ tags:
 - 歌曲
 - 县城记（2009）
 ---
+<audio controls autoplay loop  src="https://ep-sycdn.kuwo.cn/00b12c17d02cb2fd2e40b941e271025f/5f9cca6d/resource/n2/29/36/4100590056.mp3">
+您的浏览器不支持 audio 标签。
+</audio>
+
 ## 歌词
 
 **倒港纸（兑港币）**

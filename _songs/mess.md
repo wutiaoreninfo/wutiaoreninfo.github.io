@@ -5,6 +5,10 @@ tags:
 - 歌曲
 - 县城记（2009）
 ---
+<audio controls autoplay loop  src="https://eq-sycdn.kuwo.cn/584714cdcc62544e2f8fcc9940e8a8e4/5f9ccad1/resource/n2/70/57/3493671284.mp3">
+您的浏览器不支持 audio 标签。
+</audio>
+
 ## 歌词
 
 **乐乐哭哭**<sup>1</sup>

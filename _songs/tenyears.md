@@ -6,6 +6,10 @@ tags:
 - 县城记（2009）
 ---
 
+<audio controls="controls" autoplay="autoplay" loop="loop" src="https://webfs.yun.kugou.com/202010311011/7a70ae0ef66c03ef15b33882dccd8cf4/G126/M04/11/07/vg0DAFpEax2AH2hsAEUfgxkPBhU699.mp3">
+您的浏览器不支持 audio 标签。
+</audio>
+
 ## 歌词
 
  **十年水流东，十年水流西**
