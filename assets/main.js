@@ -1,4 +1,4 @@
-const light = '&#9728;',
+const light = '&#9788;',
       dark = '&#9789;';
 
 document.addEventListener("DOMContentLoaded", () => {
