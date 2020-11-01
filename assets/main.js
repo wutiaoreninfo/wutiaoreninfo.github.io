@@ -1,5 +1,5 @@
-const light = '日间',
-      dark = '夜间';
+const light = '&#9728;',
+      dark = '&#9789;';
 
 document.addEventListener("DOMContentLoaded", () => {
   init();
