@@ -3,7 +3,7 @@
 
 #### 曲目
 
-1. 曹操你别怕Don’t Worry, Man!
+1. [曹操你别怕 Don’t Worry, Man!]({% link _songs/2012dontworryman.md %})
 2. 抄电表Read the Meter
 3. 莫怪你老爹Don’t Blame Your Old Man
 4. 酒鬼猪哥伯Drunkard
