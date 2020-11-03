@@ -5,10 +5,13 @@ tags:
 - 歌曲
 - 县城记（2009）
 ---
-
+{% comment %}
 <audio controls="controls" autoplay="autoplay" loop="loop" src="https://webfs.yun.kugou.com/202010311011/7a70ae0ef66c03ef15b33882dccd8cf4/G126/M04/11/07/vg0DAFpEax2AH2hsAEUfgxkPBhU699.mp3">
 您的浏览器不支持 audio 标签。
 </audio>
+{% endcomment %}
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587843&auto=1&height=66"></iframe>
 
 ## 歌词
 

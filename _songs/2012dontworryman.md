@@ -6,9 +6,13 @@ tags:
 - 一些风景（2012）
 ---
 
+{% comment %}
 <audio controls autoplay loop   src="https://sx-sycdn.kuwo.cn/6949eac108a91683855e6d0a58742e64/5f9f5692/resource/n1/52/66/3761447027.mp3">
 您的浏览器不支持 audio 标签。
 </audio>
+{% endcomment %}
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587854&auto=1&height=66"></iframe>
 
 ## 歌词
 
