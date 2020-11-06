@@ -10,13 +10,13 @@
 5. [彭啊湃 Peng-Ah-Pai!]({% link _songs/2012pengahpai.md %})
 6. [陈先生 Mr. Chen]({% link _songs/2012mrchen.md %})
 7. [清明过纸 Ancestor Worship]({% link _songs/2012ancestorworship.md %})
-8. 两顿饱Dog Days
-9. 上县城Go to Town
-10. 做梦Day Dream
-11. 大会The Summit
-12. 世情About Life
-13. 收冬Winter Opera
-14. 城市找猪Pigs in the City
+8. [两顿饱 Dog Days]({% link _songs/2012dogdays.md %})
+9. [上县城 Go to Town]({% link _songs/2012gototown.md %})
+10. [做梦 Day Dream]({% link _songs/2012daydream.md %})
+11. [大会 The Summit]({% link _songs/2012thesummit.md %})
+12. [世情 About Life]({% link _songs/2012aboutlife.md %})
+13. [收冬 Winter Opera]({% link _songs/2012winteropera.md %})
+14. [城市找猪 Pigs in the City]({% link _songs/2012pigsinthecity.md %})
 15. 踏架脚车牵条猪（2012）Walk a Pig on My Bike (2012)
 16. 鲜花在岸上开Flowers on the Riverbanks
 17. 含叭哩细Hambalisay (Babbling)
