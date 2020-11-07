@@ -33,8 +33,10 @@ title: 影像
     </div>
 {% endfor %}
 
-<h2>MV</h2>
+
 {% assign videos = site.videos | where: "category", "mv"  | reverse %}
+{% if videos.size > 0 %}
+<h2>MV</h2>
 
 {% for post in videos %}
     <div class="post-wrapper">
@@ -42,5 +44,6 @@ title: 影像
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
 {% endfor %}
+{% endif %}
 
 

@@ -6,6 +6,7 @@ category: liveshow
 tags:
  - 演出
 ---
+[【回到海丰民谣会】彭阿湃（最早现场版）](https://www.bilibili.com/video/BV1cf4y1D7aj/){:target="_blank"}  
 **地点：** 广东海丰达利画室
 
 <div class="iframe-container">

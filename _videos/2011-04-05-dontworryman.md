@@ -6,6 +6,7 @@ category: liveshow
 tags:
  - 演出
 ---
+[【出租屋排练】曹操你迈惊LIVE](https://v.qq.com/x/page/7J7v9udLYKO.html){:target="_blank"}
 
 <div class="iframe-container">
 <iframe class="responsive-iframe" src="https://v.qq.com/txp/iframe/player.html?vid=7J7v9udLYKO" frameborder="no" allowfullscreen="true"></iframe>

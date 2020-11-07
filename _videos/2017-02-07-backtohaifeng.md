@@ -7,4 +7,4 @@ tags:
  - 演出
 ---
 
-[【回到海丰音乐会】(付费内容)](https://mp.weixin.qq.com/s/qd5S2vdG3F-69_ONQ56gGQ)
+[【回到海丰音乐会】(付费内容)](https://mp.weixin.qq.com/s/qd5S2vdG3F-69_ONQ56gGQ){:target="_blank"}

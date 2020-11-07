@@ -11,9 +11,8 @@ related:
  - url: https://www.douban.com/event/12153412/
    title: 【豆瓣同城】乐行无界【广州站】表演季
 ---
+[【乐行无界（广州站）表演季】](https://v.youku.com/v_show/id_XMjA2MTE4OTIw.html){:target="_blank"}  
 **地点**：TU凸空间
-![](http://s12.sinaimg.cn/orignal/3f3e86c9g9c207f0c2f0b)
-*图片来自相关链接的博客*
 
 ## 曲目
 * 昨夜我梦见去流浪
