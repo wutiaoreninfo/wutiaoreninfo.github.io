@@ -10,3 +10,5 @@ related:
 ---
 **节目地址**：
 [硬地音乐人－“五条人”乐队专访](https://www.lizhi.fm/share/144930/20592583955756806){:target="_blank"}
+
+<audio controls src="http://cdn5.lizhi.fm/audio/2015/06/07/20592583955756806_hd.mp3"></audio>
