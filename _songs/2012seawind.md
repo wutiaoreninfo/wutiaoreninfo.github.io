@@ -10,8 +10,6 @@ tags:
 您的浏览器不支持 audio 标签。
 </audio>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1774044660"></iframe>
-
 ## 歌词
 
 **海风**
