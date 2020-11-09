@@ -69,6 +69,4 @@ tags:
 ## 相关链接
 * 2011 年美浓第15届黄蝶祭自然河音乐会live
   
-<div class="iframe-container">
-<iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=584043799&bvid=BV1nz4y1Q7Qs&cid=217333644&page=1" frameborder="no" allowfullscreen="true"></iframe>
-</div>
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=584043799&bvid=BV1nz4y1Q7Qs&cid=217333644&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
