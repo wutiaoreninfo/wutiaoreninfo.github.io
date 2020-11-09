@@ -17,10 +17,10 @@
 12. [世情 About Life]({% link _songs/2012aboutlife.md %}){:target="_blank"}
 13. [收冬 Winter Opera]({% link _songs/2012winteropera.md %}){:target="_blank"}
 14. [城市找猪 Pigs in the City]({% link _songs/2012pigsinthecity.md %}){:target="_blank"}
-15. 踏架脚车牵条猪（2012）Walk a Pig on My Bike (2012)
-16. 鲜花在岸上开Flowers on the Riverbanks
-17. 含叭哩细Hambalisay (Babbling)
-18. 雨来淋秀才A Pedant in Rain
-19. 隆啊隆，骑马去海丰Haifhong Ballad
-20. 一些风景Some Scenery
-21. 海风Sea Wind
+15. [踏架脚车牵条猪（2012）Walk a Pig on My Bike (2012)]({% link _songs/2012walkapigonmybike.md %}){:target="_blank"}
+16. [鲜花在岸上开 Flowers on the Riverbanks]({% link _songs/2012flowersontheriverbanks.md %}){:target="_blank"}
+17. [含叭哩细 Hambalisay (Babbling)]({% link _songs/2012hambalisay.md %}){:target="_blank"}
+18. [雨来淋秀才 A Pedant in Rain]({% link _songs/2012apedantinrain.md %}){:target="_blank"}
+19. [隆啊隆，骑马去海丰 Haifhong Ballad]({% link _songs/2012haifhongballad.md %}){:target="_blank"}
+20. [一些风景 Some Scenery]({% link _songs/2012somescenery.md %}){:target="_blank"}
+21. [海风 Sea Wind]({% link _songs/2012seawind.md %}){:target="_blank"}
