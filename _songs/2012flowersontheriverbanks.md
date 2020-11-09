@@ -43,10 +43,10 @@ tags:
 
 ## 相关链接
 
-- [鲜花在岸上开（@区区500元先生）](https://www.bilibili.com/video/BV1WT4y1L727/){:target="_blank"}
+* [鲜花在岸上开（@区区500元先生）](https://www.bilibili.com/video/BV1WT4y1L727/){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=926823292&cid=228394767&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-- [2015.10.28 五条人 鲜花在岸上开 @鐵花村](https://www.bilibili.com/video/BV1FT4y177d3/){:target="_blank"}
+* [2015.10.28 五条人 鲜花在岸上开 @鐵花村](https://www.bilibili.com/video/BV1FT4y177d3/){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=926616420&cid=217309218&page=1" frameborder="no" allowfullscreen="true"></iframe></div>

@@ -66,6 +66,6 @@ tags:
 
 ## 相关链接
 
-- [《世情前传》 2010年12月2日武汉VOX巡演](https://www.bilibili.com/video/BV1yZ4y1N7hc/){:target="_blank"}
+* [《世情前传》 2010年12月2日武汉VOX巡演](https://www.bilibili.com/video/BV1yZ4y1N7hc/){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=372150618&cid=239124704&page=1" frameborder="no" allowfullscreen="true"></iframe></div>

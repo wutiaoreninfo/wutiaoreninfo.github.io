@@ -40,6 +40,6 @@ tags:
 
 ## 相关链接
 
-- [2010.04.17 黑铁时代 民谣专场](https://www.bilibili.com/video/BV1nv411k7r9/){:target="_blank"}
+* [2010.04.17 黑铁时代 民谣专场](https://www.bilibili.com/video/BV1nv411k7r9/){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=584043799&bvid=BV1nv411k7r9&cid=217333644&page=2" frameborder="no" allowfullscreen="true"></iframe></div>
