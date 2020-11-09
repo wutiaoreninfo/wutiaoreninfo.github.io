@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 做梦
+title: 做梦 Day Dream
 tags:
 - 歌曲
 - 一些风景（2012）
@@ -37,6 +37,8 @@ tags:
 
 ## 相关链接
 
-- 《昨夜里我梦见去流浪》五条人 美浓第15届黄蝶祭自然河音乐会live
-
-<iframe src="http://player.bilibili.com/player.html?aid=754022667&cid=218616241&page=1&high_quality=1" width="900" height="650" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- [《昨夜里我梦见去流浪》五条人 美浓第15届黄蝶祭自然河音乐会live](https://www.bilibili.com/video/BV1Gk4y1m71M/){:target="_blank"}
+  
+  <div class="iframe-container">
+  <iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=754022667&cid=218616241&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe>
+  </div>

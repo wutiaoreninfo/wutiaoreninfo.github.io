@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 城市找猪
+title: 城市找猪 Pigs in the City
 tags: 
 - 歌曲
 - 一些风景（2012）
@@ -37,6 +37,8 @@ tags:
 
 ## 相关链接
 
-- 20151028 鐵花村 城市找猪
-
-<iframe src="http://player.bilibili.com/player.html?aid=414053835&cid=217305163&page=1&high_quality=1" width="900" height="650" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- [20151028 鐵花村 城市找猪](https://www.bilibili.com/video/BV1VV411z7kQ/){:target="_blank"}
+  
+  <div class="iframe-container">
+  <iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=414053835&cid=217305163&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe>
+  </div>
