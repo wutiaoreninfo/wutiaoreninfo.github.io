@@ -55,10 +55,8 @@ tags:
 
 * [2010年12月2 日武汉VOX 巡演 雨来淋秀才](https://www.bilibili.com/video/BV1BK411P7KT/){:target="_blank"}
 
-<div class="iframe-container">
-<iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=499694412&cid=239120660&page=1&high_quality=1" frameborder="no" allowfullscreen="true"></iframe>
-</div>
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=499694412&bvid=BV1BK411P7KT&cid=239120660&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-* [2020年 阿那亚 雨来淋秀才](https://www.bilibili.com/video/BV1BK411P7KT/){:target="_blank"}
+* [2020年 阿那亚 雨来淋秀才](https://www.bilibili.com/video/BV1XK411K7Hw/){:target="_blank"}
   
-  <div class="iframe-container"><iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=499641243&cid=238977535&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=499641243&bvid=BV1XK411K7Hw&cid=238977535&page=1" frameborder="no" allowfullscreen="true"></iframe></div>

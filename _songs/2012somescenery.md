@@ -46,4 +46,5 @@ tags:
 
 * [2015.10.24 一些风景 IN OUR TIME](https://www.bilibili.com/video/BV1KZ4y1L7aj/){:target="_blank"}
   
-  <div class="iframe-container"><iframe class="responsive-iframe" src="http://player.bilibili.com/player.html?aid=372437501&cid=245331530&page=14" frameborder="no" allowfullscreen="true"></iframe></div>
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=372437501&bvid=BV1KZ4y1L7aj&cid=245331530&page=14" frameborder="no" allowfullscreen="true"></iframe></div>
+  
