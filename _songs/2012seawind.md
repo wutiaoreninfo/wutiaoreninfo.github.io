@@ -5,8 +5,17 @@ tags:
 - 歌曲
 - 一些风景（2012）
 ---
+{% comment %}
+<audio controls autoplay loop>
+<source src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NnM0p2Z1RNcXdXejNodURj.flac" type="audio/flac">
+<source src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NnM0p2Z1RNcXdXejNodURj.flac" type="audio/x-flac">
+您的浏览器不支持 audio 标签。
+</audio>
+{% endcomment %}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NnM0p2Z1RNcXdXejNodURj.flac">
+<audio controls autoplay loop>
+<source src="/assets/audio/2012seawind.flac" type="audio/flac">
+<source src="/assets/audio/2012seawind.flac" type="audio/x-flac">
 您的浏览器不支持 audio 标签。
 </audio>
 
