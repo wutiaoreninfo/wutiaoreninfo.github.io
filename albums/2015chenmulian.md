@@ -2,4 +2,4 @@
 
 #### 曲目
 
-1. 陈木莲
+1. [陈木莲]({% link _songs/2015chenmulian.md%}){:taget="_blank"}
