@@ -1,9 +1,16 @@
 ---
 layout: page
-title: 专辑
+title: 作品
 ---
 
+<h2 class="home-page-heading">专辑</h2>
 <p>请参见「五条人铁脯粉」「一傲」的文章<a href="https://mp.weixin.qq.com/s/RrPFl8BFf8QjfaWJmmVhEw" target="_blank">《五条人的专辑与演唱过的歌曲》</a></p>
+
+<details>
+  <summary> <h3 class="home-page-heading">春就很好听了（2009）</h3></summary>
+{% capture my_include %}{% include_relative albums/2009spring.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</details>
 
 <details>
   <summary> <h3 class="home-page-heading">县城记（2009）</h3></summary>
@@ -59,14 +66,20 @@ title: 专辑
 {{ my_include | markdownify }}
 </details>
 
+{% comment %}
 <details>
   <summary> <h3 class="home-page-heading">乐队的夏天（2020）</h3></summary>
 {% capture my_include %}{% include_relative albums/2020bigband.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </details>
+{% endcomment %}
 
 <details>
   <summary> <h3 class="home-page-heading">厨房的故事（2020）</h3></summary>
 {% capture my_include %}{% include_relative albums/2020kitchen.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </details>
+
+<h2>海报</h2>
+
+<h2>刊物</h2>
