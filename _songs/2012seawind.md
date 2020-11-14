@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 海风 Sea Wind
+date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）

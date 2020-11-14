@@ -14,7 +14,7 @@ title: 标签
 </ul>
 
 {% for tag in alltags %}
-  <h2 class="nice-title" id="{{ tag.name }}">{{ tag.name }}</h2>
+  <h2 class="nice-title" id="{{ tag.name | slugify }}">{{ tag.name }}</h2>
   <ul>
     {%- for document in alldocs -%}
       {% if document.tags contains tag.name %}

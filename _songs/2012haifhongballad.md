@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 隆啊隆，骑马去海丰 Haifhong Ballad
+date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）

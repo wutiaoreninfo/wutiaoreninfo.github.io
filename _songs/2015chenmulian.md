@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 陈木莲
+date: 2015-08-04 01:00
 tags: 
 - 歌曲
 related:
@@ -52,8 +53,6 @@ related:
 这是12月的陈木莲
 
 ## 视频
-[《陈木莲》-五条人&音乐肖像](https://www.bilibili.com/video/BV15Z4y1T7xG/){:taget="_blank"}
+[《陈木莲》-五条人&音乐肖像](https://www.bilibili.com/video/BV15Z4y1T7xG/){:target="_blank"}
 
-<div class="iframe-container">
-<iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=371924861&bvid=BV15Z4y1T7xG&cid=230759134&page=1" frameborder="no" allowfullscreen="true"></iframe>
-</div>
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=371924861&bvid=BV15Z4y1T7xG&cid=230759134&page=1" frameborder="no" allowfullscreen="true"></iframe></div>

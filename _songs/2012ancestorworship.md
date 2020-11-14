@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 清明过纸 Ancestor Worship
+date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）

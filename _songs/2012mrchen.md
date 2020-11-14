@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 陈先生 Mr. Chen
+date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）

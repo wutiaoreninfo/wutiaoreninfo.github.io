@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 雨来淋秀才 A Pedant in Rain
+date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）

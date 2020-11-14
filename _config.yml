@@ -43,7 +43,7 @@ defaults:
       type: Songs
     values:
       title: 歌曲
-      permalink: /songs/:title
+      permalink: /songs/:title     
   - scope:
       type: Videos
     values:

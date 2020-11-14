@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 莫怪你老爹 Don’t Blame Your Old Man
+date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）

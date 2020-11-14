@@ -1,7 +1,7 @@
+<img src="{{site.cdn}}/assets/imgs/scenery2012.jpg">
+
 **发行时间**：2012 年 5 月 25 日  
 **厂牌**：刀马旦
-
-<img src="{{site.cdn}}/assets/imgs/scenery2012.jpg">
 
 #### 曲目
 

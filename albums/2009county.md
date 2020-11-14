@@ -1,7 +1,7 @@
+<img src="{{site.cdn}}/assets/imgs/county2009.jpg">
+
 **发行时间**：2009 年 7 月 11 日  
 **厂牌**：刀马旦
-
-<img src="{{site.cdn}}/assets/imgs/county2009.jpg">
 
 #### 曲目
 

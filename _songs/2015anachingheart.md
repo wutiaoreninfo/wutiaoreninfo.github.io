@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 心肝痛
+date: 2015-03-09 01:00
 tags:
 - 歌曲
 - 广东姑娘（2015）
 ---
 
-[心肝痛](http://www.kuwo.cn/play_detail/38950599){:target="_blank"}
+[【酷狗音乐】心肝痛](http://www.kuwo.cn/play_detail/38950599){:target="_blank"}
 
 <audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQm5SSzkwcjgtdDd4cUVF.wav">
 您的浏览器不支持 audio 标签。
@@ -33,6 +34,14 @@ tags:
 你知不知我的心肝整个被狗咬  
 生活不是只有挣钱  
 生活要像海里的鱼
+
+## 背景
+
+引自 [【蝉创意\|薛爆拆】我把五条人给坑了...]({% link _interviews/2015-04-03-xuebaochai.md %}){:target="_blank"}
+
+> **除了音乐，有没有别的东西能够让你们爱的心肝痛？**
+> 
+> **科**：有一些时候，比如看到一个美女对不对，或者看一部电影也会心肝痛，一本小说，听一首歌…最近看了一部让我心肝痛的电影，叫做《没有过去的男人》我很喜欢这个导演，电影和配乐都很牛逼。我没有告诉别人哦，这个电影，看了会心肝痛…
 
 ## 相关链接
 
