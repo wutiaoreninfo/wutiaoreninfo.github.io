@@ -10,7 +10,7 @@
 3. [倒港纸（兑港币）]({% link _songs/2009hkd.md %}){:target="_blank"}
 4. [乐乐哭哭]({% link _songs/2009mess.md %}){:target="_blank"}
 5. 踏架脚车牵条猪（骑辆单车牵头猪）
-6. 李阿伯
+6. [李阿伯]({% link _songs/2009uncleli.md %}){:target="_blank"}
 7. 梦想化工厂
 8. 问题出现我再告诉大家
 9. 童年往事
