@@ -1,17 +1,20 @@
 
 <img src="{{site.cdn}}/assets/imgs/salon2016.jpg">
 
+**发行时间**：2016 年 12 月 12 日  
+**厂牌**：摩登天空
+
 #### 曲目
 
-1. 初恋
-2. 热带
-3. 石牌桥
-4. 有所追求
-5. 阿虎
-6. 梦幻丽莎发廊
-7. 柔河里
-8. 秧歌舞
-9. 很多很多
-10. 九条人
-11. 阿珍爱上了阿强
-12. 楼房来四散起 路不见狗相连
+1. [初恋]({% link _songs/2016firstlove.md%}){:target="_blank"}
+2. [热带]({% link _songs/2016thetropics.md%}){:target="_blank"}
+3. [石牌桥]({% link _songs/2016shipaibridge.md%}){:target="_blank"}
+4. [有所追求]({% link _songs/2016sthtogoafter.md%}){:target="_blank"}
+5. [阿虎]({% link _songs/2016tiger.md%}){:target="_blank"}
+6. [梦幻丽莎发廊]({% link _songs/2016dreamylisasalon.md%}){:target="_blank"}
+7. [柔河里]({% link _songs/2016atgentleriver.md%}){:target="_blank"}
+8. [秧歌舞]({% link _songs/2016yangkodance.md%}){:target="_blank"}
+9. [很多很多]({% link _songs/2016plentyandmore.md%}){:target="_blank"}
+10. [九条人]({% link _songs/2016ninebrothers.md%}){:target="_blank"}
+11. [阿珍爱上了阿强]({% link _songs/2016janefallsinlovewithjohn.md%}){:target="_blank"}
+12. [楼房来四散起 路不见狗相连]({% link _songs/2016house.md%}){:target="_blank"}
