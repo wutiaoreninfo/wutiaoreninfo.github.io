@@ -54,4 +54,4 @@ tags:
 
 - [五条人 匈奴王MV](https://www.bilibili.com/video/BV11i4y1M7rt?p=4){:target="_blank"}
 
-  <div class="iframe-container"><iframe class="responsive-iframe" src='http://player.bilibili.com/player.html?aid=541976048&cid=228815784&page=4&high_quality=1' frameborder="no" allowfullscreen="true"></iframe></div>
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=541976048&bvid=BV11i4y1M7rt&cid=228815784&page=4" frameborder="no" allowfullscreen="true"></iframe></div>

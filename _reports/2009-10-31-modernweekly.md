@@ -7,8 +7,8 @@ tags:
 ---
 **注**：来自豆瓣用户「耳朵莓」的[相册](https://www.douban.com/photos/photo/342432698/){:target="_blank"}
 
-![]({{site.cdn}}/assets/imgs/modernweekly2009-1.webp)
+![](/assets/imgs/modernweekly2009-1.webp)
 
-![]({{site.cdn}}/assets/imgs/modernweekly2009-2.webp)
+![](/assets/imgs/modernweekly2009-2.webp)
 
-![]({{site.cdn}}/assets/imgs/modernweekly2009-3.webp)
+![](/assets/imgs/modernweekly2009-3.webp)
