@@ -42,6 +42,11 @@ tags:
 海水就会变成云落成雨啊  
 落来落去 人就老了去
 
+## 背景
+* 引自[【看见音乐】五条人 每座城市都有一间梦幻丽莎发廊 · 有关五条人]({% link _interviews/2016-12-26-kanjian.md %}){:target="_blank"}
+  > **为什么这首歌用了方言演绎？**  
+  > 茂涛：原因其实很简单，歌词里提到的“阿兄”是个海丰人。
+
 ## 相关链接
 
 - [五条人乐队巡演大理站 有所追求](https://v.youku.com/v_show/id_XMjg1Mzk3MDYxMg==.html?spm=a2h0c.8166622.PhoneSokuUgc_2.dscreenshot){:target="_blank"}
