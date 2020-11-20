@@ -62,9 +62,20 @@ tags:
 他们会给它们带来充足的粮食  
 阿琳娜
 
+## 背景
+* 引自 [【门内音乐\|又圆紫】“人人有本故事会，我的不带进21世纪 ” \| 门内专访五条人]({% link _interviews/2019-03-15-muslog.md %}){:target="_blank"}
+  
+  > 为了这批新歌牛河……对于两首情歌，他还操碎了心，其中《阿琳娜》里面的女声编曲也是他在主导的。
+
+* 引自 [【安徽原创音乐\|就那小写的c】久别皖市 \| 像专访五条人那样讲故事]({% link _interviews/2019-04-27-anhuimusic.md %}){:target="_blank"}
+  
+  > **Q：阿琳娜是谁？**
+  > 
+  > **茂涛**：她是个beautiful girl。
+
 ## 相关链接
 
-- [五条人-阿琳娜_2018-12-28 maolive](https://www.bilibili.com/video/BV1gt411B7w3?from=search&seid=13884573252606029984){:target="_blank"}
+* [五条人-阿琳娜_2018-12-28 maolive](https://www.bilibili.com/video/BV1gt411B7w3?from=search&seid=13884573252606029984){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=39602564&bvid=BV1gt411B7w3&cid=69566123&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
   
