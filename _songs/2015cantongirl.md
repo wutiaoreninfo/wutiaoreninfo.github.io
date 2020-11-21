@@ -58,7 +58,8 @@ tags:
   
 ## 相关链接
 
-- [五条人 - 广东姑娘 2015.5.8@麻雀瓦舍](https://v.youku.com/v_show/id_XOTUxNTk2MDQw.html){:target="_blank"}
+* [【ONE · 一个】阳光一样照在你的脸上]({% link _works/2016-03-24-sunshine.md %}){:target="_blank"}
+
+* [五条人 - 广东姑娘 2015.5.8@麻雀瓦舍](https://v.youku.com/v_show/id_XOTUxNTk2MDQw.html){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XOTUxNTk2MDQw' frameborder="no" allowfullscreen="true"></iframe></div>
-  

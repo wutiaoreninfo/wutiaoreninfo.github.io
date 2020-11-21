@@ -82,4 +82,12 @@ title: 作品
 
 <h2>海报</h2>
 
-<h2>刊物</h2>
+<h2>发表图文</h2>
+{% assign videos = site.works | where: "category", "works" | reverse%}
+
+{% for post in videos %}
+    <div class="post-wrapper">
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
+    </div>
+{% endfor %}

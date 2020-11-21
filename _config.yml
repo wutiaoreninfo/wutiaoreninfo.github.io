@@ -19,6 +19,10 @@ collections:
     title: 歌曲
     default_open: true
     output: true
+  works:
+    title: 发表图文
+    default_open: true
+    output: true
   videos:
     title: 视频
     default_open: true
@@ -43,7 +47,12 @@ defaults:
       type: Songs
     values:
       title: 歌曲
-      permalink: /songs/:title     
+      permalink: /songs/:title
+  - scope:
+      type: Works
+    values:
+      title: 发表图文
+      permalink: /works/:title
   - scope:
       type: Videos
     values:
@@ -55,8 +64,8 @@ defaults:
       title: 报道
       permalink: /reports/:title
 
-#plugins:
-#  - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
 
 cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io@main"
 #cdn: ""
