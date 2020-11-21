@@ -7,6 +7,50 @@ tags:
 category: 县城记（2009）
 date: 2009-07-11 11:00
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016983"></iframe>
+
+
+## 歌词
+
+**阿炳耀**
+
+**作词**：五条人  
+**作曲**：五条人
+
+阿炳耀吃饱没事儿经常去新都（制衣厂）的门口骂永艺:  
+“永艺你这个X母的 干吗要将那些女孩子全部关起来呢？”  
+“永艺你这个X母的 干吗要将那些女孩子全部关起来呢？”  
+“永艺你这个X母的 干吗要将那些女孩子全部关起来呢？”
+
+阿炳耀今年四十有八  
+小孩子喜欢叫他“炳耀伯”  
+样子长得不是那么好看  
+身高也就一米五多一点点
+
+我……想到了炳耀啊，真是可怜呦  
+我……想到了炳耀啊，真是可怜呦
+
+他喜欢坐在门槛看着对面一堆石头的旁边几枝竹竿架上晾着的衫  
+有的时候还喜欢拎着一个茶壶从早坐到晚屁股也没见他挪一下  
+吃饱晚饭后喜欢去村里的空地听那些老头聊天但他从来不出声  
+那些老头问：“阿炳耀，你什么时候娶老婆啊？”他也不说什么  
+我……想到了炳耀啊，真是可怜呦  
+我……想到了炳耀啊，真是可怜呦  
+炳耀没跟别人那样用钱买个老婆回家睡觉取暖  
+或许他是有这样想过的  
+一天到晚没听他说过几句话其实别人也不爱跟他说话  
+他的弟弟炳文一天到晚像只八哥鸟似的总是责问他：  
+“今天给我喂猪了没有呀？”  
+锄头、屎桶每天都挂肩上,也从没听他喊过痛 
+
+我……想到了炳耀啊，真是可怜呦  
+我……想到了炳耀啊，真是可怜呦
+
+## 相关链接
+
+- [五条人-阿炳耀-2018-12-28 广州maolive](https://www.bilibili.com/video/BV1Tt41167Ak?from=search&seid=15573703134413983186){:target="_blank"}
+
+  <div class="iframe-container"><iframe class="responsive-iframe" src='http://player.bilibili.com/player.html?aid=39427648&cid=69277360&page=1&high_quality=1' frameborder="no" allowfullscreen="true"></iframe></div>
 
 ## 背景
 * 引自 [【方所文化】五条人：海丰靓仔与《广东姑娘》]({% link _interviews/2015-05-01-fangsuo.md%}){:target="_blank"}
