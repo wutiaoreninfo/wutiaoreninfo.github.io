@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】猪母上山咬老虎](https://www.kugou.com/song/#hash=A0CA3AB33BAA59FE4461E514694F95C4&album_id=977483){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ0tNdV9aTTJqa1Jmd3B1.wav">
+<audio controls  loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ0tNdV9aTTJqa1Jmd3B1.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

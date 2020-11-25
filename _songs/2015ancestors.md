@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】请到老祖宗](https://www.kugou.com/song/#hash=03FD54DF2F1102D9331A1EC13E8DCACD&album_id=977483){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ0M2TGpHeVp5Rzgxd3lt.wav">
+<audio controls loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ0M2TGpHeVp5Rzgxd3lt.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

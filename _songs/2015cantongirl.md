@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】广东姑娘](https://www.kugou.com/song/#hash=4A9DFEA4ADA3CF9A7297D3C9CC39A685&album_id=977483){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ1ZLeWF2eGxjdXNyRWM3.wav">
+<audio controls  loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ1ZLeWF2eGxjdXNyRWM3.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

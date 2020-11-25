@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】我哈你](https://www.kugou.com/song/#hash=A1CD5C82456AA0341D608E80D9C31B3B&album_id=977483){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQnlPT0tzWVNoQTdrXy1i.wav">
+<audio controls  loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQnlPT0tzWVNoQTdrXy1i.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

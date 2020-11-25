@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】像将军那样喝酒](https://www.kugou.com/song/#hash=215C3413349B396A3E02B0825AC6A69C&album_id=977483)
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ1JrSDg2OHVkSl9jd2lw.wav">
+<audio controls  loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ1JrSDg2OHVkSl9jd2lw.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

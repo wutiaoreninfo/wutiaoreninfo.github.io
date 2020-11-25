@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】晚上好，春天小姐](https://www.kugou.com/song/#hash=F08F978BFD3333331F66C14A3F5769CB&album_id=977483){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ1A2SWttRGFQU2Q4Rkdi.wav">
+<audio controls  loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ1A2SWttRGFQU2Q4Rkdi.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

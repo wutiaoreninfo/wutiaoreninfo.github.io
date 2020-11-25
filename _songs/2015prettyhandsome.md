@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】美丽漂亮,英俊潇洒](https://www.kugou.com/song/#hash=034A1F6C7447C2E96981AEADF83FCA9C&album_id=977483){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ0ZTWEdYM0JpeldVTEQ1.wav">
+<audio controls  loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQ0ZTWEdYM0JpeldVTEQ1.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 

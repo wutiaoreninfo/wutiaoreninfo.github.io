@@ -9,7 +9,7 @@ tags:
 
 [【酷狗音乐】心肝痛](http://www.kuwo.cn/play_detail/38950599){:target="_blank"}
 
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQm5SSzkwcjgtdDd4cUVF.wav">
+<audio controls loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoQm5SSzkwcjgtdDd4cUVF.wav">
 您的浏览器不支持 audio 标签。
 </audio>
 
