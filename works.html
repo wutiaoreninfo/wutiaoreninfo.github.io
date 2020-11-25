@@ -86,12 +86,14 @@ title: 作品
 
 
 <h2 class="home-page-heading">图文</h2>
-<p>更多参见「五条人铁脯粉」「一傲」的文章<a href="https://mp.weixin.qq.com/s/jvoMZDR1WStOgN0xN_WvAQ" target="_blank">《五条人仁科的文字与绘画》</a></p>
-{% assign videos = site.works | where: "category", "works" | reverse%}
+{% assign workposts = site.works | where: "category", "works" | reverse%}
 
-{% for post in videos %}
+{% for post in workposts limit:5 %}
     <div class="post-wrapper">
         <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
 {% endfor %}
+<div class="post-wrapper">
+  <a href="/published" style="margin-left:1.1rem;"><b>更多……</b></a>
+</div>
