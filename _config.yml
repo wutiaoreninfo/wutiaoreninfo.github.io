@@ -69,3 +69,16 @@ plugins:
 
 cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io@main"
 #cdn: ""
+
+# config for Algolia search
+algolia:
+   application_id: "VW8QVTARD0"
+   index_name: "wutiaoreninfo"
+   search_only_api_key: "765ff1a9af7b41c2f85e863463b10ea9"
+   extensions_to_index: 
+      - html
+      - md
+   nodes_to_index: 'p,blockquote,li'
+   files_to_exclude: [index.html,search.html]
+
+exclude: [vendor]
