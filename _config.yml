@@ -79,6 +79,6 @@ algolia:
       - html
       - md
    nodes_to_index: 'p,blockquote,li'
-   files_to_exclude: [index.html,search.html]
+   files_to_exclude: [index.html,search.html,changelog.md,changelog.html]
 
 exclude: [vendor]
