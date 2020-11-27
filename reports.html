@@ -9,7 +9,11 @@ title: 报道
 <main class="home-main">
 {% for year in postsByYear %}
   <section id="posts">
-    <details open>
+    {% if forloop.first %}
+     <details open>
+    {% else %}
+     <details>
+    {% endif %}
       <summary>
         <h3 class="home-page-heading">{{ year.name }}</h3>
       </summary>
