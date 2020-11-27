@@ -6,6 +6,9 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
+url: https://wutiaoren.info
+baseurl: ""
+
 collections:
   posts:
     title: Essays
