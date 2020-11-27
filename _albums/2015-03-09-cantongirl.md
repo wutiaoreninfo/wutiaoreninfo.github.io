@@ -1,3 +1,11 @@
+---
+layout: post
+title: 广东姑娘（2015）
+date: 2015-03-09 00:00
+featured: true
+albumtype: officialalbum
+---
+
 <img src="{{site.cdn}}/assets/imgs/cantongirl2015.jpg">
 
 **发行时间**：2015 年 3 月 9 日  

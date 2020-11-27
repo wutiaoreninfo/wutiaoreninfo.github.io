@@ -19,6 +19,10 @@ collections:
     title: 歌曲
     default_open: true
     output: true
+  albums:
+    title: 专辑
+    default_open: true
+    output: true
   works:
     title: 发表图文
     default_open: true
@@ -48,6 +52,11 @@ defaults:
     values:
       title: 歌曲
       permalink: /songs/:title
+  - scope:
+      type: Albums
+    values:
+      title: 专辑
+      permalink: /albums/:title
   - scope:
       type: Works
     values:

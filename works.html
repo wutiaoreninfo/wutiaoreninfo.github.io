@@ -6,6 +6,22 @@ title: 作品
 
 <h2 class="home-page-heading">专辑</h2>
 
+{% assign falbums = site.albums | where: "featured", "true" %}
+
+{% for album in falbums %}
+  <details>
+    <summary> <h4 class="home-page-heading">{{ album.title}}</h4></summary>
+    {{ album.content }}
+  </details>
+
+{% endfor %}
+
+<div class="post-wrapper">
+  <a href="/allsongs" style="margin-left:1.1rem;"><b>更多……</b></a>
+</div>
+
+{% comment %}
+
 <details>
   <summary> <h3 class="home-page-heading">县城记（2009）</h3></summary>
 {% capture my_include %}{% include_relative albums/2009county.md %}{% endcapture %}
@@ -36,9 +52,7 @@ title: 作品
 {{ my_include | markdownify }}
 </details>
 
-<div class="post-wrapper">
-  <a href="/allsongs" style="margin-left:1.1rem;"><b>更多……</b></a>
-</div>
+{% endcomment %}
 
 <h2>海报</h2>
 

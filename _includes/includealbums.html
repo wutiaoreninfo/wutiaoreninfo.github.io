@@ -1,0 +1,7 @@
+{% assign falbums = site.albums | where: "albumtype", include.albumtype %}
+{% for album in falbums %}
+  <details>
+    <summary> <h4 class="home-page-heading">{{ album.title}}</h4></summary>
+    {{ album.content }}
+  </details>
+{% endfor %}

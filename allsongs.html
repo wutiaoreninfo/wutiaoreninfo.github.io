@@ -3,7 +3,39 @@ layout: page
 title: 专辑和演唱过的歌曲
 ---
 
-<p>更多参见「五条人铁脯粉」「一傲」的文章<a href="https://mp.weixin.qq.com/s/RrPFl8BFf8QjfaWJmmVhEw" target="_blank">《五条人的专辑与演唱过的歌曲》</a></p>
+<p>本页面根据「五条人铁脯粉」「一傲」的文章<a href="https://mp.weixin.qq.com/s/RrPFl8BFf8QjfaWJmmVhEw" target="_blank">《五条人的专辑与演唱过的歌曲》</a>整理</p>
+
+<h2 class="home-page-heading">五条人的专辑</h2>
+{% include includealbums.html albumtype="officialalbum"%}
+
+<h2 class="home-page-heading">五条人未正式发行的专辑</h2>
+{% include includealbums.html albumtype="unofficialalbum"%}
+
+<h2 class="home-page-heading">五条人的单曲</h2>
+{% include includealbums.html albumtype="single"%}
+
+<h2 class="home-page-heading">仁科的个人专辑、歌曲</h2>
+{% include includealbums.html albumtype="renke"%}
+
+<h2 class="home-page-heading">五条人演唱过但专辑未收录的歌曲</h2>
+{% include includealbums.html albumtype="notincluded"%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %}
 
 <details>
     <summary> <h3 class="home-page-heading">春就很好听了（2009）</h3></summary>
@@ -65,16 +97,18 @@ title: 专辑和演唱过的歌曲
   {{ my_include | markdownify }}
   </details>
   
-  {% comment %}
+
   <details>
     <summary> <h3 class="home-page-heading">乐队的夏天（2020）</h3></summary>
   {% capture my_include %}{% include_relative albums/2020bigband.md %}{% endcapture %}
   {{ my_include | markdownify }}
   </details>
-  {% endcomment %}
+
   
   <details>
     <summary> <h3 class="home-page-heading">厨房的故事（2020）</h3></summary>
   {% capture my_include %}{% include_relative albums/2020kitchen.md %}{% endcapture %}
   {{ my_include | markdownify }}
   </details>
+
+  {% endcomment %}
