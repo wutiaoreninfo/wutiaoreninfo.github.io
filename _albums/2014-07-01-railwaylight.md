@@ -8,4 +8,4 @@ albumtype: single
 
 #### 曲目
 
-1. 铁路之光
+1. [铁路之光]({% link _songs/2011railylight.md %}){:target="_blank"}
