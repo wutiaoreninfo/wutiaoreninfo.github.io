@@ -5,6 +5,11 @@ date: 2018-02-01 00:00
 featured: false
 albumtype: officialalbum
 ---
+<img src="/assets/imgs/backtohaifeng2017.webp">
+*专辑设计：胡子  
+图片来源：胡子、留真*
+
+[五条人2017回到海丰音乐会（新春特辑）](https://mp.weixin.qq.com/s/qd5S2vdG3F-69_ONQ56gGQ){:target="_blank"}
 
 #### 曲目
 

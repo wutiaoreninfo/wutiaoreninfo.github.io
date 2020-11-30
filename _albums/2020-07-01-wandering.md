@@ -5,6 +5,8 @@ date: 2020-07-01 00:00
 featured: false
 albumtype: officialalbum
 ---
+<img src="/assets/imgs/wandering2020.webp">
+*专辑设计：胡子*
 
 #### 曲目
 

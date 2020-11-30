@@ -32,6 +32,7 @@ albumtype: notincluded
 24. [地球仪]({%link _songs/2020globe.md %}){:target="_blank"}
 25. 乐夏即兴（爱、夏、酸歌词动机）
 26. Last Dance（改编）
-27. 世界的理想
-28. [厨房的故事]({%link _songs/2020kitchen.md %}){:target="_blank"}
-29. 打车去太空
+27. 阿珍爱上了阿强
+28. 世界的理想
+29. [厨房的故事]({%link _songs/2020kitchen.md %}){:target="_blank"}
+30. 打车去太空
