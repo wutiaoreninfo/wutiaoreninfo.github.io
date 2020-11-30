@@ -40,8 +40,8 @@
       return `
         <div class="post-item">
           <span class="post-meta">${date}</span>
-          <h2><a class="post-link" href="${url}">${title}</a></h2>
-          {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
+          <h2><a class="post-link" href="${url}" target="_blank">${title}</a></h2>
+          {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs" target="_blank">${breadcrumbs}</a>{{/breadcrumbs}}
           <div class="post-snippet">${content}</div>
         </div>
       `;
@@ -50,7 +50,7 @@
     search.addWidget(
       instantsearch.widgets.searchBox({
         container: '#search-searchbar',
-        placeholder: 'Search into posts...',
+        placeholder: '搜索文章',
         poweredBy: true // This is required if you're on the free Community plan
       })
     );
