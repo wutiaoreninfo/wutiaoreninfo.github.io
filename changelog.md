@@ -3,6 +3,10 @@ layout: page
 title: 更新记录
 ---
 
+#### 2020.12.01
+
+* 更换评论系统至 Twikoo，旧留言在 commentsold.html
+
 #### 2020.11.30
 
 * 更新《五条人DEMO》专辑封面、介绍
