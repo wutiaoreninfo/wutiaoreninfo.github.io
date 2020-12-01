@@ -61,6 +61,10 @@ tags:
   > 
   > 《清明过纸》就很简单了。我们那边的祭祖情况就跟《清明过纸》里的很像。
 
+* [「回家祭祖视频」](https://www.bilibili.com/video/BV1oA411x7bi){:target="_blank"}
+  
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=330443668&bvid=BV1oA411x7bi&cid=260106727&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
 * 引自 [【自在世界\|郭小寒】五条人专访｜创作本身就是很好玩的事 · 有关五条人]({% link _interviews/2015-03-18-isvaraworld.md %}){:target="_blank"}
 
   > **寒：**你们创作新专辑的状态是怎么样的？
