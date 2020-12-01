@@ -7,7 +7,7 @@ title: 更新记录
 
 * 更换评论系统至 Twikoo，旧留言在 commentsold.html （貌似全部阵亡了-_-!!）
 * 新增《请到老祖公》灵感来源视频，豆瓣用户 eriiii 提供信息
-* 新增 2009年9月 The Beijinger 的报道，微博用户 lenhoceon 提供信息
+* 新增 2009 年 9 月 The Beijinger 的报道，微博用户 lenhoceon 提供信息
 * 新增 仁科漫画《疯马酒吧》，豆瓣用户 eriiii 提供信息
 * 新增 陈培浩《五条人答问2011》访谈，微博用户 疯马村画者Dontworry 提供信息
 * 新增 郭小寒《五条人：一些故事和一些风景》访谈，豆瓣用户 eriiii 提供信息
