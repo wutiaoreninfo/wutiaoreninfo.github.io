@@ -34,6 +34,10 @@ tags:
 
 ## 相关链接
 
-- [2020草莓星云 五条人 阿珍爱上了阿强](https://v.qq.com/x/cover/mzc00200vnvhjn5/i0034dd678x.html){:target="_blank"}
+* [2020草莓星云 五条人 阿珍爱上了阿强](https://v.qq.com/x/cover/mzc00200vnvhjn5/i0034dd678x.html){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://v.qq.com/txp/iframe/player.html?vid=i0034dd678x' frameborder="no" allowfullscreen="true"></iframe></div>
+
+* [刺客伍六七](https://www.bilibili.com/bangumi/play/ss6360/){:target="_blank"}
+
+* [刺客伍六七之最强发型师](https://www.bilibili.com/bangumi/play/ss28510){:target="_blank"}
