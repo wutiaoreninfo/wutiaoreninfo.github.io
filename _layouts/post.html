@@ -31,6 +31,9 @@ layout: default
   <article>
 
     <section class="content">
+      {% if page.collection == 'interviews' or page.collection == 'reports' or page.category == 'works' %}
+        <p><b>:: 建议点击「原文链接」阅读文章 ::</b></p>
+      {% endif %}
       {{content}}
     </section>
 
