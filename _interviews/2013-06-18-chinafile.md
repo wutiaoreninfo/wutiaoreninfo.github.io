@@ -4,6 +4,7 @@ title: 【ChinaFile | The Local Folk】An Interview with Indie Band Wu Tiao Ren
 date: 2013-06-18 22:00
 tags:
 - 访谈
+- 文字
 ---
 **Source**:
 [【ChinaFile | The Local Folk】An Interview with Indie Band Wu Tiao Ren](https://www.chinafile.com/reporting-opinion/culture/local-folk){:target="_blank"}

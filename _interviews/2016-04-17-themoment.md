@@ -4,6 +4,7 @@ title: 【一时半刻|朱小升】專訪五條人｜不要去討好別人，討
 date: 2016-04-17 22:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [專訪五條人｜不要去討好別人，討好別人會死得很慘](https://mp.weixin.qq.com/s/vqlv7nqfjoMcl97WlGAqbw){:target="_blank"}

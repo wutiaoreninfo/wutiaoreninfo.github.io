@@ -4,6 +4,7 @@ title: 【游吟者之歌|通俗歌曲】五条人，他们的存在便是风景
 date: 2017-02-21 00:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [得闲炒饭丨五条人，他们的存在便是风景](https://mp.weixin.qq.com/s/7rcrdl1xkUmJroAiHLMcFw){:taget="_blank"}

@@ -4,6 +4,7 @@ title: 【安徽原创音乐|就那小写的c】久别皖市 | 像专访五条�
 date: 2019-04-27 22:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [久别皖市 | 像专访五条人那样讲故事](https://mp.weixin.qq.com/s/v3fHQ9_XbRyJuWf4nTKdiA){:target="_blank"}

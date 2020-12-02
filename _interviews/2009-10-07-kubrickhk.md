@@ -4,6 +4,7 @@ title: 【KubrickHK】Kubrick Friday Live - 五條人
 date: 2009-10-07 22:00
 tags:
 - 访谈
+- 视频
 ---
 
 ## Part 1 

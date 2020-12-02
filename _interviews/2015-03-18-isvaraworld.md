@@ -4,6 +4,7 @@ title: 【自在世界|郭小寒】五条人专访｜创作本身就是很好玩
 date: 2015-03-18 17:11
 tags:
 - 访谈
+- 文字
 ---
 **原文**：[五条人专访｜创作本身就是很好玩的事](https://mp.weixin.qq.com/s/444NJc7aWddH6cv7KuTF5Q){:target="_blank"}
 

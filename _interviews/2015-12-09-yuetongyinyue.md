@@ -4,6 +4,7 @@ title: 【乐童音乐|音乐肖像】音乐人谈｜五条人：拒绝把生活
 date: 2015-12-09 22:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [音乐人谈｜五条人：拒绝把生活抒情化](https://mp.weixin.qq.com/s/Efn7fWVnG-aiUuZeB_XcTg){:target="_blank"}

@@ -4,6 +4,7 @@ title: 【陈培浩】五条人答问2011
 date: 2011-11-02 22:00
 tags:
 - 访谈
+- 文字
 ---
 
 **注**：来自 區區500元先生 的豆瓣帖子 [五条人答问2011](https://site.douban.com/widget/notes/412234/note/181750660/){:target="_blank"}，未找到原始出处

@@ -5,6 +5,7 @@ date: 2020-09-28 21:00
 tags:
 - 访谈
 - 报道
+- 文字
 ---
 **Source**:
 [The Band That Rocked China’s Internet](http://www.sixthtone.com/news/1006220/the-band-that-rocked-chinas-internet){:target="_blank"}

@@ -4,6 +4,7 @@ title: 【南音乐】仁科访谈
 date: 2006-10-09 22:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [仁科访谈——作者：南音乐_南音乐_新浪博客](http://blog.sina.com.cn/s/blog_4a828bb8010005tc.html){:target="_blank"}

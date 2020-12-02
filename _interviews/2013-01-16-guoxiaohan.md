@@ -4,6 +4,7 @@ title: 【郭小寒】五条人：一些风景一些人
 date: 2013-01-16 22:00
 tags:
 - 访谈
+- 文字
 ---
 
 **注**：来自豆瓣帖子 [五条人：一些风景一些人（转自ellaman）](https://www.douban.com/event/18081745/discussion/51601221/){:target="_blank"}，未找到原始出处

@@ -4,6 +4,7 @@ title: 【Glass Onion】焦點樂隊－海豐走鬼五條人
 date: 2017-04-11 17:11
 tags:
 - 访谈
+- 视频
 related:
  - url: ../reports/2017-04-11-glassonionhk.html
    title: 【Glass Onion|張吃吃】當Bob Dylan都得了諾獎，也許是時候聽聽五條人

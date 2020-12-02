@@ -4,6 +4,7 @@ title: 【唱片隊長|陈小椒】Bonus 4 五条人：把故事都唱出来 | �
 date: 2016-04-08 22:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [Bonus 4 # 五条人：把故事都唱出来 | 艺人专访](https://mp.weixin.qq.com/s/WuIs0xJVHzDWqacWUQmPpQ){:target="_blank"}

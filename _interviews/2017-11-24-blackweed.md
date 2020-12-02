@@ -4,6 +4,7 @@ title: 【黑果BlackWeed|凌曦】专访五條人乐队丨创作的“虚构”
 date: 2017-11-24 17:11
 tags:
 - 访谈
+- 文字
 ---
 
 **原文**：[专访五條人乐队丨创作的“虚构”与“超真实”](https://mp.weixin.qq.com/s/i3bTBDbvzbfUSeUgeSXjHQ){:target="_blank"}

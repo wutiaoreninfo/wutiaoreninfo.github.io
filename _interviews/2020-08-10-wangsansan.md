@@ -4,6 +4,7 @@ title: 【再聊三分钟|三三工作室】五条人复活了！这只宝藏乐
 date: 2020-08-10 22:00
 tags:
 - 访谈
+- 文字
 ---
 **原文**：
 [五条人复活了！这只宝藏乐队是长在热搜上了吗](https://mp.weixin.qq.com/s/9O9DwlI5iSuQrZ8bpV4sWQ){:target="_blank"}

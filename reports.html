@@ -22,7 +22,7 @@ title: 报道
         {% for post in sortItem %}
           <div class="post-wrapper">
             <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d" }}</time>
-            <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url }}" target="_blank">{{ post.title }}</a>
           </div>
         {% endfor %}
       </div>
