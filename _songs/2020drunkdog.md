@@ -45,6 +45,8 @@ tags:
 
 ## 相关链接
 
+* [【五条人公众号】关于《食醉狗》的八件事](https://mp.weixin.qq.com/s/w47qYxXPv4hIK0LoJaebjA){:target="_blank"}
+
 * [【20201013 TME LIVE × 《乐队的夏天2》专场演唱会】五条人 食醉狗](https://www.kugou.com/mvweb/html/mv_3257650.html){:target="_blank"}
 
   <div class="iframe-container">

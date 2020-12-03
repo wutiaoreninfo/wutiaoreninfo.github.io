@@ -26,7 +26,7 @@ albumtype: notincluded
 18. 米铺（海丰话版《米店》）
 19. 我厝阿嫂爱唱歌
 20. [食醉狗]({%link _songs/2020drunkdog.md %}){:target="_blank"}
-21. 爱，让我失态
+21. [Love Makes Me Lose Control]({%link _songs/2019lovemakesmelosecontrol.md %}){:target="_blank"}
 22. 他把反话正面讲
 23. take your clothes off when you dance（翻唱）
 24. [地球仪]({%link _songs/2020globe.md %}){:target="_blank"}

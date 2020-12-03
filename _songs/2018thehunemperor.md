@@ -66,6 +66,8 @@ tags:
 
 ## 相关链接
 
-- [五条人 匈奴王MV](https://www.bilibili.com/video/BV11i4y1M7rt?p=4){:target="_blank"}
+* [五条人 匈奴王MV](https://www.bilibili.com/video/BV11i4y1M7rt?p=4){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=541976048&bvid=BV11i4y1M7rt&cid=228815784&page=4" frameborder="no" allowfullscreen="true"></iframe></div>
+
+* [【摩登天空】匈奴王重出江湖，五条人动画MV再出经典](https://mp.weixin.qq.com/s/QuqM_5aP8G5fUp3wv7tIXQ){:target="_blank"}

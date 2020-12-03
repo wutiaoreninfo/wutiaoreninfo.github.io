@@ -8,6 +8,8 @@ tags:
 ---
 **注**：来自微博用户**绘里w** [2020 年 10 月 30 日微博](https://weibo.com/tv/show/1034:4565691479818276?from=old_pc_videoshow){:target="_blank"}
 
+[**土豆网视频地址**](https://compaign.tudou.com/v/XMjE5MTExNTkwMA==){:target="_blank"}
+
 <div class="iframe-container">
-<iframe class="responsive-iframe" src="https://f.video.weibocdn.com/UO4GWEJ4lx07HBDcKzxC0104120ejCAQ0E060.mp4?label=mp4_1080p&template=1554x886.25.0&trans_finger=0bde055d9aa01b9f6bc04ccac8f0b471&media_id=4565691479818276&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=3ZoTIp&ab=966-g1,3370-g1&Expires=1604763913&ssig=A8MhsodWRT&KID=unistore,video" frameborder="no" allowfullscreen="true"></iframe>
+<video  controls webkit-playsinline="true" playsinline=""  poster="" x5-video-player-type="h5" x5-video-player-fullscreen="false" class="responsive-iframe" src="http://ykugc.cp31.ott.cibntv.net/697B175053E32714DC2292C68/03000801005882CDD80274000000011D7C0701-897F-C3D4-DE7E-BFBEA4FBE1A4.mp4?ccode=0505&amp;duration=585&amp;expire=18000&amp;psid=1322c8526b9b820b35f4a4be80e4104843881&amp;ups_client_netip=78244b54&amp;ups_ts=1607010119&amp;ups_userid=&amp;utid=z2LLF%2Bo6mwcCAXnMEvkbC32i&amp;vid=XMjE5MTExNTkwMA&amp;vkey=Baa6f246916fb1991729a6b45796384ae&amp;eo=0&amp;t=163faf482a645fc&amp;rid=20000000381F604801884E99439A63307813E6A402000000&amp;bc=2&amp;dre=u21&amp;si=42&amp;dst=1"></video>
 </div>

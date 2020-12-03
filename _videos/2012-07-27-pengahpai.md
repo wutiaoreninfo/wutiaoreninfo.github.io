@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【回到海丰音乐会】彭啊湃（Peng A Pai）中英文字幕Live
-date: 2013-07-28 20:00
+date: 2012-07-27 20:00
 category: liveshow
 tags:
  - 演出
