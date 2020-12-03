@@ -16,7 +16,7 @@ albumtype: notincluded
 8. 北门居委第八街
 9. 萨达姆哈达姆
 10. 垃圾歌
-11. 半只麻雀
+11. [半只麻雀]({% link _songs/2008halfsparrow.md %}){:target="_blank"}
 12. 时间是某天上午
 13. 与刚果先生的对话
 14. 我那可爱的朋友
