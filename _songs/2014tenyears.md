@@ -55,3 +55,8 @@ tags:
 明日就自己过  
 啦啦啦啦  
 啦啦啦啦
+
+## 相关链接
+* [2008-02-08 2008回到海丰民谣会 《十年水》天台版现场](https://v.youku.com/v_show/id_XMTA3NjQwMDE2){:target="_blank"}
+
+  <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XMTA3NjQwMDE2' frameborder="no" allowfullscreen="true"></iframe></div>
