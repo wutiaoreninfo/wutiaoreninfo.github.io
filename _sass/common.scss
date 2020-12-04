@@ -364,10 +364,10 @@ table tr th:nth-child(2){
   height: 100%;
 }
 
-// hide system info in comments
-.tk-extras {
-  visibility: hidden;
-}
+// comments
+.tk-extras { display: none !important; }
+.tk-comment {margin: 0px;}
+
 
 // media queries
 @media screen and (max-width: 700px) {
