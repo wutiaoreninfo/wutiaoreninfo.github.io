@@ -4,6 +4,7 @@ title: 【Para Site藝術空間】《土尾世界》展覽系列活動——「�
 date: 2015-05-17 20:00
 tags:
  - 访谈
+ - 座谈
  - 视频
 related:
  - url: https://www.para-site.art/programme/%e3%80%8a%e5%9c%9f%e5%b0%be%e4%b8%96%e7%95%8c%e3%80%8b%e5%b1%95%e8%a6%bd%e7%b3%bb%e5%88%97%e6%b4%bb%e5%8b%95%e2%94%82%e3%80%8c%e5%b5%87%e5%ba%b7%e5%94%b1%e7%89%87%e7%9a%84%e7%9c%9f%e5%af%a6%e6%83%b3/?lang=zh-hant

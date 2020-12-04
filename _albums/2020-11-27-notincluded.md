@@ -10,29 +10,36 @@ albumtype: notincluded
 2. 啊朋友 再见
 3. 小河
 4. 瀑布（翻唱）
-5. 相约第三世界书店
+5. [相约第三世界书店]({% link _songs/2009-01-01-3rdworldbookstore.md %}){:target="_blank"}
 6. 弗朗切斯卡之歌
 7. 来自元音工房的情歌
 8. 北门居委第八街
 9. 萨达姆哈达姆
 10. 垃圾歌
 11. [半只麻雀]({% link _songs/2008halfsparrow.md %}){:target="_blank"}
-12. 时间是某天上午
+12. [时间是某天上午]({% link _songs/2006-01-01-morning.md %}){:target="_blank"}
 13. 与刚果先生的对话
 14. 我那可爱的朋友
 15. 春天
 16. 祈祷的乌鸦
 17. 高等教育
 18. 米铺（海丰话版《米店》）
-19. 我厝阿嫂爱唱歌
+19. [我厝阿嫂爱唱歌]({%link _songs/2019singingsister.md %}){:target="_blank"}
 20. [食醉狗]({%link _songs/2020drunkdog.md %}){:target="_blank"}
 21. [Love Makes Me Lose Control]({%link _songs/2019lovemakesmelosecontrol.md %}){:target="_blank"}
-22. 他把反话正面讲
+22. [他把反话正面讲]({%link _songs/2019handan.md %}){:target="_blank"}
 23. take your clothes off when you dance（翻唱）
 24. [地球仪]({%link _songs/2020globe.md %}){:target="_blank"}
 25. 乐夏即兴（爱、夏、酸歌词动机）
 26. Last Dance（改编）
-27. 阿珍爱上了阿强
+27. 阿珍爱上了阿强（乐夏版）
 28. 世界的理想
 29. [厨房的故事]({%link _songs/2020kitchen.md %}){:target="_blank"}
-30. 打车去太空
+30. [四季歌]({%link _songs/2020seasons.md %}){:target="_blank"}
+31. 打车去太空
+32. [和尚歌]({%link _songs/2011-09-16-monksong.md %}){:target="_blank"}
+33. [在那没人知道的地方]({%link _songs/2011-09-16-nowhere.md %}){:target="_blank"}
+34. [流行歌曲]({%link _songs/2015popularsong.md %}){:target="_blank"}
+35. [I don't wanna grow up]({%link _songs/2020dontwannagrowup.md %}){:target="_blank"}
+36. [伤心的人]({%link _songs/2020heartbroken.md %}){:target="_blank"}
+37. 甜丝丝
