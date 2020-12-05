@@ -92,5 +92,6 @@ algolia:
       - md
    nodes_to_index: 'p,blockquote,li'
    files_to_exclude: [index.html,search.html,changelog.md,changelog.html]
+   hitsPerPage: 1000
 
 exclude: [vendor]
