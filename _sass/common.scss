@@ -365,8 +365,9 @@ table tr th:nth-child(2){
 }
 
 // comments
-.tk-extras { display: none !important; }
-.tk-comment {margin: 0px;}
+.tk-extras { display: none !important; height:0; }
+.tk-content p {margin-top: 0.5rem;margin-bottom: 1.0rem;}
+.tk-comment {margin: 0.5rem 0px !important;}
 .tk-expand {background: rgb(245, 245, 245);}
 
 
