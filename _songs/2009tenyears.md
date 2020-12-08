@@ -18,47 +18,47 @@ tags:
 
  **十年水流东，十年水流西**
 
-**作词**：五条人   
-**作曲**：五条人   
+**作词**：五条人  
+**作曲**：五条人  
 
-十年水流东啊    
-十年水流西    
-流晚几年行得不啊？    
-鬼还不知啊    
+十年水流东啊  
+十年水流西  
+流晚几年行得不啊？  
+鬼还不知啊
 
-旧年的番薯不比    
-今年的芋头呀    
-亲像国家的经济    
-楼价四散飞    
+旧年的番薯不比  
+今年的芋头呀  
+亲像国家的经济  
+楼价四散飞
 
-乒乒乓乓啊 摆着圈    
-乒乒乓乓啊 摆着圈    
+乒乒乓乓啊 摆着圈  
+乒乒乓乓啊 摆着圈
 
-十年水流东啊    
-十年水流西    
-流晚几年行得不啊？    
-鬼还不知啊    
+十年水流东啊  
+十年水流西  
+流晚几年行得不啊？  
+鬼还不知啊
 
-旧年的番薯不比    
-今年的芋头呀    
-亲像国家的经济    
-楼价四散飞    
+旧年的番薯不比  
+今年的芋头呀  
+亲像国家的经济  
+楼价四散飞
 
-梅州的鲢鱼哦    
-汕尾的鳝鱼    
-亲像人死后    
-眼睛就瞌下去    
+梅州的鲢鱼哦  
+汕尾的鳝鱼  
+亲像人死后  
+眼睛就瞌下去
 
-人说我说梦话    
-亲像讲的是海丰话    
-我不知啊    
-我不知啊    
-啦啦啦啦    
+人说我说梦话  
+亲像讲的是海丰话  
+我不知啊  
+我不知啊  
+啦啦啦啦
 
-今天啦全球化啊    
-明日就自己过    
-啦啦啦啦    
-啦啦啦啦    
+今天啦全球化啊  
+明日就自己过  
+啦啦啦啦  
+啦啦啦啦
 
 ## 备注
 
@@ -82,10 +82,10 @@ tags:
 
 ## 相关链接
 
-* **一条视频**
+* [**一条视频**](https://www.bilibili.com/video/BV1Jx41127Kc){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=8568698&bvid=BV1Jx41127Kc&cid=14109111&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-* **美浓第15届黄蝶祭自然河音乐会**
+* [**美浓第15届黄蝶祭自然河音乐会**](https://www.bilibili.com/video/BV1wK411n7n2){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=499031462&bvid=BV1wK411n7n2&cid=217718917&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
