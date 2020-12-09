@@ -4,7 +4,9 @@ title: 访谈
 ---
 <h4>文字、视频、电台等访谈</h4>
 
+{% comment %}
 <p>衍生： <b><a href={% link _posts/2020-11-16-intellectuals.md %}>知识分子</a></b></p>
+{% endcomment %}
 
 {% assign postsByYear = site.interviews | group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
 

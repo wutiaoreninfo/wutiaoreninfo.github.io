@@ -6,6 +6,7 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="content-language" content="zh-CN" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description" content="{{ description | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncate: 160 }}" />
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
@@ -24,7 +25,7 @@
         "datePublished": "{{ page.date | date_to_xmlschema }}",
         "headline": "{{ page.title }}",
         "url": "{{ site.url }}{{ page.url }}",
-        "inLanguage": "en-US",
+        "inLanguage": "zh-CN",
         "isFamilyFriendly": "true",
         "keywords": "{{ page.tags| join: ", " }}",
         "image": "{{ site.url }}/favicon.ico",
