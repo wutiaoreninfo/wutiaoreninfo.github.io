@@ -6,6 +6,9 @@ tags:
 - 故事会（2018）
 ---
 
+![](/assets/imgs/shenzhenstreet2018.webp)
+*单曲封面*
+
 [【酷狗音乐】深圳的街头](https://www.kugou.com/song/#hash=09E867C6792D705C51A7F192AD0AF1AB&album_id=15435451){:target="_blank"}
 
 <audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoRUxVLWVtaFk4c2JROUZj.flac">

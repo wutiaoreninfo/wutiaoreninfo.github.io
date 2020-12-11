@@ -6,6 +6,9 @@ tags:
 - 梦幻丽莎发廊（2016）
 ---
 
+![](/assets/imgs/firstlove2016.webp)
+*单曲封面*
+
 [【酷狗音乐】初恋](https://www.kugou.com/song/eiuqd82.html#hash=CD3988F311810FCE2543F667C8C1EC30&album_id=26633668){:target="_blank"}
 
 <audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoREtkcjMzX2RxM1c3U1dsP2U9TkxpZVhn.flac">

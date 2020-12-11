@@ -6,6 +6,9 @@ tags:
 - 梦幻丽莎发廊（2016）
 ---
 
+![tiger](/assets/imgs/tiger2016.webp)
+*单曲封面*
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1795301268"></iframe>
 
 ## 歌词

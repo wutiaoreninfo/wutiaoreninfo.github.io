@@ -6,6 +6,9 @@ tags:
 - 故事会（2018）
 ---
 
+![](/assets/imgs/alena2018.webp)
+*单曲封面*
+
 [【酷狗音乐】阿琳娜](https://www.kugou.com/song/#hash=494AED14DAA59A575BD4471EDE35D69F&album_id=15435451){:target="_blank"}
 
 <audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoRU8xSXNvUmYxTFlUNzIz.flac">

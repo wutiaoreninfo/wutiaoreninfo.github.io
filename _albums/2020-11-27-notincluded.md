@@ -36,7 +36,7 @@ albumtype: notincluded
 28. 世界的理想
 29. [厨房的故事]({%link _songs/2020kitchen.md %}){:target="_blank"}
 30. [四季歌]({%link _songs/2020seasons.md %}){:target="_blank"}
-31. 打车去太空
+31. [打车去太空]({%link _songs/2020taxitospace.md %}){:target="_blank"}
 32. [和尚歌]({%link _songs/2011-09-16-monksong.md %}){:target="_blank"}
 33. [在那没人知道的地方]({%link _songs/2011-09-16-nowhere.md %}){:target="_blank"}
 34. [流行歌曲]({%link _songs/2015popularsong.md %}){:target="_blank"}
