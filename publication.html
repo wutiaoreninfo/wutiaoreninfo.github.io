@@ -6,7 +6,7 @@ title: 图文创作
 
 {% for post in workposts %}
     <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}<br>{{ post.date | date: "%m%d" }}</time>
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
 {% endfor %}

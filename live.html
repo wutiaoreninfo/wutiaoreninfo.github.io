@@ -27,13 +27,15 @@ title: 影像
 <h2>演出</h2>
 {% assign videos = site.videos | where: "category", "liveshow"  | reverse %}
 
-{% for post in videos %}
+{% for post in videos limit:10 %}
     <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%Y" }}</time>
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
 {% endfor %}
-
+<div class="post-wrapper">
+    <a href="/liveshow" style="margin-left:1.1rem;"><b>更多……</b></a>
+  </div>
 
 <h2>其他</h2>
 {% assign videos = site.videos | where: "category", "misc"  | reverse %}
