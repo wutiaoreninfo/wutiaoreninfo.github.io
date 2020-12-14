@@ -364,18 +364,13 @@ table tr th:nth-child(2){
 .tk-content p {margin-top: 0.5rem;margin-bottom: 1.0rem;}
 .tk-comment {margin: 0.5rem 0px !important;}
 .tk-expand {background: rgb(245, 245, 245);}
-.tk-tag {display:none !important;}
 
 // media queries
 @media screen and (max-width: 700px) {
   body {margin: 8px;}
-  ul, ol {
-    margin-left: 0.5rem;
-  }
+  ul, ol { margin-left: 0.5rem;}
 }
 @media screen and (max-width: 370px) {
   .nav-item { font-size: 1rem; }
-  ul, ol {
-    margin-left: 0.5rem;
-  }
+  ul, ol {margin-left: 0.5rem;}
 }
