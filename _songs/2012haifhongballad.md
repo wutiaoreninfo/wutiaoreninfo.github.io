@@ -49,3 +49,7 @@ tags:
 * [2011 隆阿隆，骑马去海丰 @区区五百元先生](https://v.youku.com/v_show/id_XMjQ0MjUyMjM2.html){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XMjQ0MjUyMjM2' frameborder="no" allowfullscreen="true"></iframe></div>
+
+* **YouTube** [汕尾海豐童謠《隆啊隆，騎馬去海豐》](https://www.youtube.com/watch?v=O_AmjDCKmoY){:target="_blank"}
+  
+   <div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/O_AmjDCKmoY" frameborder="no" allowfullscreen="true"></iframe></div>

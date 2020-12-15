@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 曹操你别怕 Don’t Worry, Man!
+title: 曹操你别怕 Don't Worry, Man!
 date: 2012-05-25 01:00
 tags:
 - 歌曲
@@ -57,6 +57,18 @@ tags:
 猪电：谁人
 
 ## 背景
+
+* [【一席】五条人：有时候你觉得诗意的东西，我觉得有点恶心](https://www.bilibili.com/video/BV16x411k7Af/){:target="_blank"} 25 分开始
+  
+  <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=8936832&bvid=BV16x411k7Af&cid=14751828&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
+
+* 引自 YouTube [Wutiaoren 频道（官方？）](https://www.youtube.com/watch?v=rx3Nl3fSdNQ){:target="_blank"}
+  
+  > 在我们当地流传着这么一个笑话，讲一次做戏，戏台上演戏的“曹操”发现后台有人在分番薯粥，于是乎演着演着走神了，后台的人发现“曹操”走神，便对戏台上喊：“曹操你别怕，一人一碗定”。“曹操”听到这话，就火了，对着台下喊：“虽说一人一碗定，但你们把番薯都捞去吃，剩下那点粥水来给我算碗数吗？”
+  >
+  > 《曹操你别怕》这是一首玩儿的歌曲，我们将三个不同的故事拼凑在一起，一开始是讲村落之间的争斗，先是踩对方的田后是集体械斗，第二段是发生在中国的司空见惯的土地拆迁问题。
+  >
+  > 接着植入“曹操”这个笑话，一是为了调解歌曲里的紧张气氛，二是“曹操”在戏台上讲的这段话也很应景——“虽说每人一碗定，但你们把番薯都捞去吃，剩下那点汤水来给我算碗数？”
 
 * 引自 [【NOISE愛上噪音\|陽光時務週刊】五條人和他們的音樂]({% link _interviews/2012-11-22-noise.md %}){:target="_blank"}
   > **陽**：你們爲什麽想到用《曹操你別怕》做專輯的開場曲，是把它作爲專輯的一個基調嗎？
