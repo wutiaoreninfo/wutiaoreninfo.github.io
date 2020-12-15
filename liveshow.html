@@ -6,7 +6,7 @@ title: 演出视频
 
 {% for post in videos %}
     <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%Y" }}<br>{{ post.date | date: "%m%d" }}</time>
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%Y" }}<br><small>{{ post.date | date: "%m-%d" }}</small></time>
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
 {% endfor %}
