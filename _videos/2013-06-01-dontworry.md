@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【曹操你别怕”深圳特别专场】
+title: 【“曹操你别怕”深圳特别专场】
 date: 2013-06-01 00:00
 category: liveshow
 tags:
