@@ -26,3 +26,7 @@ tags:
 ![](https://wx3.sinaimg.cn/large/006yk21nly1ghlrtqyl24j30u05kbx6r.jpg)
 
 ![](https://wx1.sinaimg.cn/large/006yk21nly1ghlrtv74jmj30u06lenpg.jpg)
+
+<div class="iframe-container">
+<video controls class="responsive-iframe" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" origin_src="http://mpvideo.qpic.cn/0bf2iuaboaaag4ampsrqa5pvarodc5cqafya.f10002.mp4?dis_k=c4475bbedea5e4ec0bf42ac56d7f31c3&amp;dis_t=1608136155&amp;vid=wxv_1467039019686313985&amp;format_id=10002" src="http://mpvideo.qpic.cn/0bf2iuaboaaag4ampsrqa5pvarodc5cqafya.f10002.mp4?dis_k=c4475bbedea5e4ec0bf42ac56d7f31c3&amp;dis_t=1608136155&amp;vid=wxv_1467039019686313985&amp;format_id=10002" preload="metadata">
+</div>
