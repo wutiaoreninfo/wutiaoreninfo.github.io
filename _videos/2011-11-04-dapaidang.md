@@ -11,6 +11,6 @@ tags:
   
   <div class="iframe-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/LKZzqQGL1eI"  frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe></div>
 
-* **B 站另一个角度**：[标题过于愚蠢](https://www.bilibili.com/video/BV1hh411d7tD){:target="_blank"}
+* [**B 站另一个角度**](https://www.bilibili.com/video/BV1hh411d7tD){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=201718028&bvid=BV1hh411d7tD&cid=224434297&page=1"  frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe></div>
