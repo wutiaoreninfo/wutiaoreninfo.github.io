@@ -8,6 +8,11 @@ albumtype: officialalbum
 <img src="/assets/imgs/wandering2020.webp">
 *专辑设计：胡子*
 
+本专辑选自[Salão Brasil（科英布拉）]({% link _videos/2019-09-05-portugal.md %})、Atlas Hostel（莱里亚）两场演出。
+
+五条人2019葡萄牙巡演路线图:
+![](https://inews.gtimg.com/newsapp_bt/0/11625732474/1000)
+
 #### 曲目
 
 1. 城市找猪
@@ -21,4 +26,3 @@ albumtype: officialalbum
 9. 广东姑娘
 10. 梦幻丽莎发廊
 11. 雨来淋秀才
-    
