@@ -9,7 +9,7 @@ tags:
 **原文**：
 [【消研所\|赫婧】获奖年度营销先锋，“我们的轻盈就像塑料袋一样”](https://mp.weixin.qq.com/s/BfeP047XMDIvtW8xcGuFSA){:target="_blank"}
 
-> “在套路跟反套路之间，五条人选择轻盈的游走。”
+> 在套路跟反套路之间，五条人选择轻盈的游走。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/bAGQ2nbCjotOZfiaPu9NnvynyGeMqXlYrcYHyxiaiaxv9vxNlwvU330jiaByBib3qfKnpMoISsHNcxPKoibcJnkoLgCw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)  
 
