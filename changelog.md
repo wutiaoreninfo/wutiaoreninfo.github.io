@@ -8,7 +8,9 @@ title: 更新记录
 #### 2020.12.23
 
 * 更新 Twikoo 至 v0.4.2
-* 更新 访谈 20201223 【观詹\|詹俊电台】【请回答2020】与五条人的“老乡会”
+* 新增 访谈 20201223 【观詹\|詹俊电台】【请回答2020】与五条人的“老乡会”
+* 新增 影像\|演出 20181125 【我的城市This Is My City at SIM São Paulo】 @疯马村画者Dontworry
+* 新增 影像\|演出 20190904 【This Is My City\|Jam Sessions between Wutiaoren and Surma】 @疯马村画者Dontworry
 
 #### 2020.12.22
 
