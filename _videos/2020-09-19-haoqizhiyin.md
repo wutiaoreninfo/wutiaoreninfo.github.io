@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【好奇之音】仁科：把“边缘”当作生活方式 
+title: 【好奇之音|仁科】把“边缘”当作生活方式 
 date: 2020-09-19 00:00
 category: speech
 tags:

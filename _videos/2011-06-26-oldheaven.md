@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【深圳旧天堂】
-date: 2013-06-26 20:00
+date: 2011-06-26 20:00
 category: liveshow
 tags:
  - 演出
