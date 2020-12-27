@@ -5,9 +5,8 @@ date: 2012-05-25 01:00
 tags: 
 - 歌曲
 - 一些风景（2012）
+songimg: pigsinthecity.gif
 ---
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587867&auto=1&height=66"></iframe>
 
 ## 歌词
 
@@ -35,6 +34,8 @@ tags:
 我们在想象中度过了许多年  
 城市又艺术地长出了农村  
 （许多年以后我们又开始想象）
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587867&auto=1&height=66"></iframe>
 
 ## 相关链接
 

@@ -5,9 +5,8 @@ date: 2009-07-11 08:00
 tags:
 - 歌曲
 - 县城记（2009）
+songimg: problem.gif
 ---
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016980"></iframe>
 
 ## 歌词
 
@@ -46,6 +45,8 @@ tags:
 所有的年青人，年青人，年青人  
 问题出现我再告诉大家！  
 啦 啦啦
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016980"></iframe>
 
 ## 背景
 

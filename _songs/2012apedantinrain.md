@@ -5,9 +5,8 @@ date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）
+songimg: rain.gif
 ---
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587871&auto=1&height=66"></iframe>
 
 ## 歌词
 
@@ -44,6 +43,8 @@ tags:
 大屁股破条裂  
 欲补没时间  
 不补笑死人
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587871&auto=1&height=66"></iframe>
 
 ## 备注
 

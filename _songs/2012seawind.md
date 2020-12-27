@@ -5,6 +5,7 @@ date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）
+songimg: seawind.gif
 ---
 {% comment %}
 <audio controls autoplay loop>
@@ -13,12 +14,6 @@ tags:
 您的浏览器不支持 audio 标签。
 </audio>
 {% endcomment %}
-
-<audio controls autoplay loop>
-<source src="/assets/audio/2012seawind.flac" type="audio/flac">
-<source src="/assets/audio/2012seawind.flac" type="audio/x-flac">
-您的浏览器不支持 audio 标签。
-</audio>
 
 ## 歌词
 
@@ -53,6 +48,12 @@ tags:
 海风哦 啦啦啦啦 海风哦 啦啦啦啦  
 海风哦 海风哦 只要伊着你的身边  
 去到地短都唔惊
+
+<audio controls autoplay loop>
+<source src="/assets/audio/2012seawind.flac" type="audio/flac">
+<source src="/assets/audio/2012seawind.flac" type="audio/x-flac">
+您的浏览器不支持 audio 标签。
+</audio>
 
 ## 备注
 

@@ -4,16 +4,8 @@ title: 初恋
 tags:
 - 歌曲
 - 梦幻丽莎发廊（2016）
+songimg: firstlove.webp
 ---
-
-![](/assets/imgs/firstlove2016.webp)
-*单曲封面*
-
-[【酷狗音乐】初恋](https://www.kugou.com/song/eiuqd82.html#hash=CD3988F311810FCE2543F667C8C1EC30&album_id=26633668){:target="_blank"}
-
-<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoREtkcjMzX2RxM1c3U1dsP2U9TkxpZVhn.flac">
-您的浏览器不支持 audio 标签。
-</audio>
 
 ## 歌词
 
@@ -38,6 +30,12 @@ tags:
 啦啦啦 啦啦啦  
 嘿 我的朋友 我祝你一切顺利 生活愉快  
 嘿 我的朋友 明天的太阳依然为你而升起来
+
+<audio controls autoplay loop  src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbXVjeFU4NF9vc3NoREtkcjMzX2RxM1c3U1dsP2U9TkxpZVhn.flac">
+您的浏览器不支持 audio 标签。
+</audio>
+
+[【酷狗音乐】初恋](https://www.kugou.com/song/eiuqd82.html#hash=CD3988F311810FCE2543F667C8C1EC30&album_id=26633668){:target="_blank"}
 
 ## 背景
 * 引自[【看见音乐】五条人 每座城市都有一间梦幻丽莎发廊 · 有关五条人]({% link _interviews/2016-12-26-kanjian.md %}){:target="_blank"}

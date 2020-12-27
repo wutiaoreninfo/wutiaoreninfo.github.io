@@ -4,12 +4,8 @@ title: 阿虎
 tags:
 - 歌曲
 - 梦幻丽莎发廊（2016）
+songimg: tiger.webp
 ---
-
-![tiger](/assets/imgs/tiger2016.webp)
-*单曲封面*
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1795301268"></iframe>
 
 ## 歌词
 
@@ -47,6 +43,11 @@ tags:
 我就等你一句话！  
 你爱跟我走吗？ 你爱跟我走吗？  
 我就等你一句话！
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1795301268"></iframe>
+
+![tiger](/assets/imgs/tiger2016.webp)
+*单曲封面*
 
 ## 背景
 * 引自 [【好奇心日报\|周哲浩 蔡一能】以纪实风格出名的民谣乐队五条人：“其实我们不拒绝这个社会，我们一直在融入它”]({% link _interviews/2018-10-11-qdaily.md %}){:target="_blank"}
