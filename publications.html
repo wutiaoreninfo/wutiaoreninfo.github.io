@@ -2,11 +2,26 @@
 layout: page
 title: 图文创作
 ---
-{% assign workposts = site.works | where: "category", "works" | reverse%}
 
-{% for post in workposts %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}<br><small>{{ post.date | date: "%m-%d" }}</small></time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
+{% assign postsByYear = site.works | where: "category", "works" |group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
+
+<main class="home-main">
+{% for year in postsByYear %}
+  <section id="posts">
+     <details open>
+      <summary>
+        <h3 class="home-page-heading">{{ year.name }}</h3>
+      </summary>
+      <div class="parent">
+        {% assign sortItem = year.items | reverse %}
+        {% for post in sortItem %}
+          <div class="post-wrapper">
+            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d" }}</time>
+            <a class="post-link" href="{{ post.url }}" target="_blank" >{{ post.title }}</a>
+          </div>
+        {% endfor %}
+      </div>
+    </details>
+  </section>
 {% endfor %}
+</main>
