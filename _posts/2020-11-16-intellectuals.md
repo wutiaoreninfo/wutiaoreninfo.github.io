@@ -4,9 +4,9 @@ title: 知识分子
 date: 2020-11-16 00:00
 ---
 ## 书
-1. [《芥子园画谱》](https://book.douban.com/subject/1720487/){:target="_blank"}
+1. [《芥子园画谱》](https://book.douban.com/subject/1720487/)
     > 引自
-    > [【东莞时报】五条人：县城有个梦想化工厂]({% link _interviews/2009-10-12-dgtime.md %}){:target="_blank"}
+    > [【东莞时报】五条人：县城有个梦想化工厂]({% link _interviews/2009-10-12-dgtime.md %})
     >
     > ……屋子里一边是堆放杂物的桌子，一边是书架，塞满了各种各样的旧书，甚至还有一本《芥子园画谱》。
     >
