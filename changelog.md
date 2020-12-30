@@ -10,6 +10,7 @@ title: 更新记录
 * 新增 报道\|往来 20180126 [【声声不觉】童心玩兴 & 年前最后一场]({% link _reports/2018-01-26-shengshengbujue.md%}){:target="_blank"} @eriiii &larr; @用尸名未注册 &larr; @lenhoceon &larr; 大脑 &larr; 眼睛 &larr; 屏幕 &larr; 互联网 &larr; 搜狐 &larr; ... &larr; THE beginning of time!
 * 新增 影像\|演出 20140612 [【安徽大学民谣音乐会】]({% link _videos/2014-06-12-anhuiu.md%}){:target="_blank"}  @疯马村画者Dontworry
 * 新增 访谈 20200929 [【乐队的夏天】五条人：我们愿意去玩]({% link _interviews/2020-09-29-iqiyi.md%}){:target="_blank"} @eriiii
+* 更新 Twikoo 至 0.5.0
 
 #### 2020.12.29
 
