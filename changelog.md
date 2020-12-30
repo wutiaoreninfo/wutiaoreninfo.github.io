@@ -5,6 +5,11 @@ title: 更新记录
 
 **注**：@ 后为信息提供者
 
+#### 2020.12.30
+
+* 新增 报道\|往来 20180126 [【声声不觉】童心玩兴 & 年前最后一场]({% link _reports/2018-01-26-shengshengbujue.md%}){:target="_blank"} @eriiii &larr; @用尸名未注册 &larr; @lenhoceon &larr; 大脑 &larr; 眼睛 &larr; 屏幕 &larr; 互联网 &larr; 搜狐 &larr; ... &larr; THE beginning of time!
+* 新增 影像\|演出 20140612 [【安徽大学民谣音乐会】]({% link _videos/2014-06-12-anhuiu.md%}){:target="_blank"}  @疯马村画者Dontworry
+
 #### 2020.12.29
 
 * 新增 新标签打开外部链接
