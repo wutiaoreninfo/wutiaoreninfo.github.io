@@ -5,6 +5,11 @@ title: 更新记录
 
 **注**：@ 后为信息提供者
 
+#### 2020.12.31
+
+* 新增 喜马拉雅剪辑视频 至 访谈 20201223 [【观詹\|詹俊电台】【请回答2020】与五条人的“老乡会”]({% link _interviews/2020-12-23-zhanjun.md%}) 
+* 新增 访谈 20201230 [【南都娱乐周刊】南都娱乐周刊年度十大人物采访]({% link _interviews/2020-12-30-se.md %}) @eriiii
+
 #### 2020.12.30
 
 * 新增 报道\|往来 20180126 [【声声不觉】童心玩兴 & 年前最后一场]({% link _reports/2018-01-26-shengshengbujue.md%}){:target="_blank"} @eriiii &larr; @用尸名未注册 &larr; @lenhoceon &larr; 大脑 &larr; 眼睛 &larr; 屏幕 &larr; 互联网 &larr; 搜狐 &larr; ... &larr; THE beginning of time!
