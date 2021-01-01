@@ -9,6 +9,8 @@ title: 更新记录
 
 * 新增 访谈 20201231 [【十三邀第5季第2期\|许知远】许知远对话五条人]({% link _interviews/2020-12-31-13.md%})
 * 新增 影像 20111210 [【中国梦践行者致敬盛典】绿苍苍]({% link _videos/2011-12-10-green.md %})
+* 新增 未收录歌曲 [《路灯下的小姑娘》]({% link _songs/2020-12-31-girlunderthelight.md %})、[《梦幻初恋》]({% link _songs/2020-12-31-dreamyfirstlove.md %})
+* 新增 [回到海丰音乐会 海报](/allposters.html)
 
 #### 2020.12.31
 

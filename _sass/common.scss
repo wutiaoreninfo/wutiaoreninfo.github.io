@@ -282,6 +282,10 @@ details[open] summary ~ * {
   animation: sweep .4s ease-in-out;
 }
 
+
+
+
+
 @keyframes sweep {
   0%    {opacity: 0; margin-top: -10px}
   100%  {opacity: 1; margin-top: 0px}
@@ -373,12 +377,65 @@ table tr th:nth-child(2){
 .tk-admin-comment a {color: #ffffff !important;}
 //.tk-tag {display: none !important;}
 
+
+// for posters
+.poster-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  width:100%;
+  align-items: stretch;
+}
+
+.poster {
+  flex: 1 1 200px;
+  max-width:150px;
+  margin: 5px;
+  padding: 5px;
+  /* display: flex; */
+  display: none;
+}
+.poster img {
+  width:100%;
+  object-fit: cover;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: flex;
+}
+/* Style the buttons */
+.btn {
+  padding: 12px 16px !important;
+  cursor: pointer;
+  background-color: #666 !important;
+}
+
+.btn:hover {
+background-color: #272822 !important;
+opacity: 1.0;
+}
+
+.btn.active {
+background-color: #272822 !important;
+color: white;
+}
+
+body.compensate-for-scrollbar {
+overflow: auto !important;
+max-width: 700px;
+margin: 8px auto;
+height: 100%;
+}
+
 // media queries
 @media screen and (max-width: 700px) {
   body {margin: 8px;}
   ul, ol { margin-left: 0.5rem;}
+  .poster { flex: 1 1 150px;}
 }
 @media screen and (max-width: 370px) {
   .nav-item { font-size: 1rem; }
   ul, ol {margin-left: 0.5rem;}
+  .poster {  flex: 1 1 100px; }
 }

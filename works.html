@@ -20,45 +20,18 @@ title: 作品
   <a href="/allsongs" style="margin-left:1.1rem;"><b>更多……</b></a>
 </div>
 
-{% comment %}
-
-<details>
-  <summary> <h3 class="home-page-heading">县城记（2009）</h3></summary>
-{% capture my_include %}{% include_relative albums/2009county.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</details>
-
-<details>
-  <summary> <h3 class="home-page-heading">一些风景（2012）</h3></summary>
-{% capture my_include %}{% include_relative albums/2012scenery.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</details>
-
-<details>
-  <summary> <h3 class="home-page-heading">广东姑娘（2015）</h3></summary>
-{% capture my_include %}{% include_relative albums/2015cantongirl.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</details>
-
-<details>
-  <summary> <h3 class="home-page-heading">梦幻丽莎发廊（2016）</h3></summary>
-{% capture my_include %}{% include_relative albums/2016salon.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</details>
-
-<details>
-  <summary> <h3 class="home-page-heading">故事会（2018）</h3></summary>
-{% capture my_include %}{% include_relative albums/2018stories.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</details>
-
-{% endcomment %}
-
 <h2>海报</h2>
-
+<div class="poster-container">
+  {% for poster in site.data.posters limit:4 %}
+      <div class="poster show">
+          <a data-fancybox="gallery" href="{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
+              <img src="{{poster.thumbnail}}-s.jpg">
+          </a>
+      </div>
+  {% endfor %}
+</div>
 <div class="post-wrapper">
-  <p>参见豆瓣 <a href="https://www.douban.com/photos/album/1878586635/" target="_blank">安妮塔的相册-【全网最全】五条人乐队历年海报收集</a></p>
-  {% comment %}<a href="/allposters" style="margin-left:1.1rem;"><b>更多……</b></a> {% endcomment %}
+  <a href="/allposters" style="margin-left:1.1rem;"><b>更多……</b></a>
 </div>
 
 <h2 class="home-page-heading">图文</h2>
@@ -73,3 +46,8 @@ title: 作品
 <div class="post-wrapper">
   <a href="/publications" style="margin-left:1.1rem;"><b>更多……</b></a>
 </div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>

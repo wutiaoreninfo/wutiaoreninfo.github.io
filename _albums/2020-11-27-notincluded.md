@@ -43,3 +43,5 @@ albumtype: notincluded
 35. [I don't wanna grow up]({%link _songs/2020dontwannagrowup.md %}){:target="_blank"}
 36. [伤心的人]({%link _songs/2020heartbroken.md %}){:target="_blank"}
 37. 甜丝丝
+38. [路灯下的小姑娘]({% link _songs/2020-12-31-girlunderthelight.md %}){:target="_blank"}
+39. [梦幻初恋]({% link _songs/2020-12-31-dreamyfirstlove.md %}){:target="_blank"}

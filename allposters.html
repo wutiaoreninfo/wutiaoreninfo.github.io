@@ -1,0 +1,29 @@
+---
+layout: page
+title: 海报
+---
+<p><b>注：</b>所有海报均由 <a href="https://www.douban.com/people/eritan/">豆瓣用户 eriiii</a> 提供</p>
+
+<div id="myBtnContainer">
+    <button class="btn active" onclick="filterSelection('all')"> 全部</button>
+    <button class="btn" onclick="filterSelection('haifeng')"> 回到海丰</button>
+    <button class="btn" onclick="filterSelection('tour')"> 巡演</button>
+    <button class="btn" onclick="filterSelection('misc')"> 其他</button>
+  </div>
+<br>
+
+<div class="poster-container">
+    {% for poster in site.data.posters %}
+        <div class="poster {{poster.postertype}}">
+            <a href="{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
+                <img src="{{poster.thumbnail}}-s.jpg">
+            </a>
+        </div>
+    {% endfor %}
+</div>
+
+<script src="assets/clickablebutton.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>

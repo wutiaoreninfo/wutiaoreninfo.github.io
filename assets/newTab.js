@@ -7,5 +7,4 @@ for (i=0;i<mylinks.length-1;i++) {
         mylink.target="_blank";
         mylink.rel="noopener noreferrer";
     }
-    console.log(mylink)
 }
