@@ -359,3 +359,139 @@
   posterdate: 2014-12-19 00:00
   imgurl: 20141219-christmas
   description:
+
+################## 2015
+
+- title: 2015 “晚上好，春天小姐”广东姑娘全国巡演I
+  postertype: tour
+  posterdate: 2015-04-03 00:00
+  imgurl: 20150403-missspringcantongirl
+  description:
+
+- title: 2015 大时代歌厅_张玮玮&郭龙×五条人音乐会
+  postertype: tour
+  posterdate: 2015-07-17 00:00
+  imgurl: 20150717-time-1
+  description:
+
+- title: 2015 大时代歌厅_张玮玮&郭龙×五条人音乐会
+  postertype: tour
+  posterdate: 2015-07-17 00:00
+  imgurl: 20150717-time-2
+  description:
+
+- title: 2015 “昨夜做梦去流浪” 五条人台湾巡演
+  postertype: tour
+  posterdate: 2015-10-23 00:00
+  imgurl: 20151023-wanderingtw
+  description:
+
+- title: 2015 “像将军那样喝酒”广东姑娘全国巡演II
+  postertype: tour
+  posterdate: 2015-11-24 00:00
+  imgurl: 20151124-drinkinggeneral-1
+  description:
+
+- title: 2015 “像将军那样喝酒”广东姑娘全国巡演II
+  postertype: tour
+  posterdate: 2015-11-24 00:00
+  imgurl: 20151124-drinkinggeneral-2
+  description:
+
+- title: 2015 “像将军那样喝酒”广东姑娘全国巡演II
+  postertype: tour
+  posterdate: 2015-11-24 00:00
+  imgurl: 20151124-drinkinggeneral-3
+  description:
+
+- title: 2015 “鲜花在岸上开”五条人南京音乐会
+  postertype: tour
+  posterdate: 2015-12-25 00:00
+  imgurl: 20151225-flowernk-1-1
+  description:
+
+- title: 2015 “鲜花在岸上开”五条人南京音乐会
+  postertype: tour
+  posterdate: 2015-12-25 00:00
+  imgurl: 20151225-flowernk-1-2
+  description:
+
+- title: 2015 “鲜花在岸上开”五条人南京音乐会
+  postertype: tour
+  posterdate: 2015-12-25 00:00
+  imgurl: 20151225-flowernk-2
+  description:
+
+################## 2016
+- title: 2016 广东巡演
+  postertype: tour
+  posterdate: 2016-03-18 00:00
+  imgurl: 20160318-canton-1
+  description:
+
+- title: 2016 广东巡演
+  postertype: tour
+  posterdate: 2016-03-18 00:00
+  imgurl: 20160318-canton-2
+  description:
+
+- title: 2016 梦幻丽莎发廊四城巡演
+  postertype: tour
+  posterdate: 2016-12-09 00:00
+  imgurl: 20161209-lisasalon
+  description:
+
+- title: 2016 梦幻丽莎发廊广州
+  postertype: tour
+  posterdate: 2016-12-23 00:00
+  imgurl: 20161223-lisasaloncanton
+  description:
+
+################## 2017
+- title: 2017 梦幻丽莎发廊全国巡演I
+  postertype: tour
+  posterdate: 2017-03-24 00:00
+  imgurl: 20170324-lisasalontour
+  description:
+
+- title: 2017 “风调雨顺” 五条人惠州专场演唱会
+  postertype: tour
+  posterdate: 2017-07-14 00:00
+  imgurl: 20170714-huizhou-1
+  description:
+
+- title: 2017 “风调雨顺” 五条人惠州专场演唱会
+  postertype: tour
+  posterdate: 2017-07-14 00:00
+  imgurl: 20170714-huizhou-2
+  description:
+
+- title: 2017 “明天的太阳依然为你升起”梦幻丽莎发廊全国巡演II
+  postertype: tour
+  posterdate: 2017-12-01 00:00
+  imgurl: 20171201-lisasalontour2-1
+  description:
+
+- title: 2017 “明天的太阳依然为你升起”梦幻丽莎发廊全国巡演II
+  postertype: tour
+  posterdate: 2017-12-01 00:00
+  imgurl: 20171201-lisasalontour2-2
+  description:
+
+
+
+##### MISC #####
+
+################## 2015
+- title: 2015 广东歌与《广东姑娘》
+  postertype: misc
+  posterdate: 2015-03-28 00:00
+  imgurl: 20150328-fangsuo
+  description:
+
+################## 2017
+- title: 2017 五条人海报展
+  postertype: misc
+  posterdate: 2017-05-06 00:00
+  imgurl: 20170506-poster
+  description:
