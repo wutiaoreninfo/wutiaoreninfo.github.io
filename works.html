@@ -24,8 +24,8 @@ title: 作品
 <div class="poster-container">
   {% for poster in site.data.posters limit:4 %}
       <div class="poster show">
-          <a data-fancybox="gallery" href="{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
-              <img src="{{poster.thumbnail}}-s.jpg">
+          <a data-fancybox="gallery" href="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
+              <img src="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}-s.jpg">
           </a>
       </div>
   {% endfor %}

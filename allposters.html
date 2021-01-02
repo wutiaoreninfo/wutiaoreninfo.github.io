@@ -15,8 +15,8 @@ title: 海报
 <div class="poster-container">
     {% for poster in site.data.posters %}
         <div class="poster {{poster.postertype}}">
-            <a href="{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
-                <img src="{{poster.thumbnail}}-s.jpg">
+            <a href="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
+                <img src="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}-s.jpg">
             </a>
         </div>
     {% endfor %}
