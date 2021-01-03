@@ -1,5 +1,5 @@
 #!/bin/bash
-for fig in *.jpg
+for fig in 201[8-9]*.jpg
 do 
     figname="${fig%.*}"
     echo $figname

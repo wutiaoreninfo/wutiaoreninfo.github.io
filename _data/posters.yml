@@ -278,10 +278,22 @@
   description:
 
 ################## 2010
+- title: 2010 五条人民谣专场
+  postertype: tour
+  posterdate: 2010-04-17 00:00
+  imgurl: 20100417-folk
+  description:
+
 - title: 2010 五条人民谣会
   postertype: tour
   posterdate: 2010-05-20 00:00
   imgurl: 20100520-folk
+  description:
+
+- title: 2010 【五条人和朋友】“你好，手风琴”五条人音乐专场
+  postertype: tour
+  posterdate: 2010-09-04 00:00
+  imgurl: 20100904-helloaccordion
   description:
 
 - title: 2010 “五条人”乐队驻场中国姑娘
@@ -322,6 +334,12 @@
   description:
 
 ################## 2012
+- title: 2012 一些风景巡演
+  postertype: tour
+  posterdate: 2012-05-25 00:00
+  imgurl: 20120525-somescenery
+  description:
+
 - title: 2012 一些风景巡演广州站
   postertype: tour
   posterdate: 2012-05-25 00:00
@@ -353,6 +371,12 @@
   imgurl: 20130730-unclub
   description:
 
+- title: 2013 “曹操你别怕”冬季巡演
+  postertype: tour
+  posterdate: 2013-10-30 00:00
+  imgurl: 20131030-dontworry
+  description:
+
 ################## 2014
 - title: 2014 流浪游圣诞音乐会
   postertype: tour
@@ -366,6 +390,12 @@
   postertype: tour
   posterdate: 2015-04-03 00:00
   imgurl: 20150403-missspringcantongirl
+  description:
+
+- title: 2015 “晚上好，广东姑娘”广东姑娘巡演北方三城
+  postertype: tour
+  posterdate: 2015-05-05 00:00
+  imgurl: 20150505-cantongirl
   description:
 
 - title: 2015 大时代歌厅_张玮玮&郭龙×五条人音乐会
@@ -451,8 +481,23 @@
 - title: 2017 梦幻丽莎发廊全国巡演I
   postertype: tour
   posterdate: 2017-03-24 00:00
+  specialtype: true
+  thumbnail: 20170324-lisasalontour-ani.gif
+  imgurl: 20170324-lisasalontour-ani.gif
+  description:
+
+- title: 2017 梦幻丽莎发廊全国巡演I
+  postertype: tour
+  posterdate: 2017-03-24 00:00
   imgurl: 20170324-lisasalontour
   description:
+
+- title: 2017 “曹操你别怕”大理专场
+  postertype: tour
+  posterdate: 2017-06-25 00:00
+  imgurl: 20170625-dontworrydali
+  description:
+
 
 - title: 2017 “风调雨顺” 五条人惠州专场演唱会
   postertype: tour
@@ -478,9 +523,182 @@
   imgurl: 20171201-lisasalontour2-2
   description:
 
+################## 2018
+- title: 2018 五条人来到鹅城音乐会
+  postertype: tour
+  posterdate: 2018-02-18 00:00
+  imgurl: 20180218-goosecity-1
+  description:
 
+- title: 2018 五条人来到鹅城音乐会
+  postertype: tour
+  posterdate: 2018-02-18 00:00
+  imgurl: 20180218-goosecity-2
+  description:
+
+- title: 2018 “阿珍爱上阿强”全国巡演I
+  postertype: tour
+  posterdate: 2018-08-28 00:00
+  imgurl: 20180828-janejohn
+  description:
+
+- title: 2018 五条人大型演唱会广州深圳站
+  postertype: tour
+  posterdate: 2018-12-18 00:00
+  imgurl: 20181218-concert
+  description:
+
+################## 2019
+- title: 2019 故事会全国巡演I
+  postertype: tour
+  posterdate: 2019-03-22 00:00
+  imgurl: 20190322-stories
+  description:
+
+- title: 2019 南方发廊五条人新歌预热专场（广州）
+  postertype: tour
+  posterdate: 2019-08-23 00:00
+  imgurl: 20190823-newsongguangzhou
+  description:
+
+- title: 2019 南方发廊五条人新歌预热专场（深圳）
+  postertype: tour
+  posterdate: 2019-08-25 00:00
+  imgurl: 20190825-newsongshenzhen
+  description:
+
+- title: 2019 我的城市葡萄牙巡演
+  postertype: tour
+  posterdate: 2019-08-31 00:00
+  imgurl: 20190831-timc-portugal-1
+  description:
+
+- title: 2019 我的城市葡萄牙巡演
+  postertype: tour
+  posterdate: 2019-08-31 00:00
+  imgurl: 20190831-timc-portugal-2
+  description:
+
+- title: 2019 五条人葡萄牙巡演
+  postertype: tour
+  posterdate: 2019-09-05 00:00
+  imgurl: 20190905-portugal
+  description:
+
+- title: 2019 故事会全国巡演II
+  postertype: tour
+  posterdate: 2019-12-06 00:00
+  imgurl: 20191206-stories
+  description:
+
+- title: 2019 五条人的故事会
+  postertype: tour
+  posterdate: 2019-12-18 00:00
+  imgurl: 20191218-wtrstories
+  description:
+
+################## 2020
+- title: 2020 “开船歌”广州新年演唱会
+  postertype: tour
+  posterdate: 2020-01-03 00:00
+  imgurl: 20200103-newyear
+  description:
+
+- title: 2020 生活研究五条人×梅卡德尔
+  postertype: tour
+  posterdate: 2020-01-04 00:00
+  imgurl: 20200104-lifestudy
+  description:
+
+- title: 2020 “魂萦旧梦”上海专场
+  postertype: tour
+  posterdate: 2020-09-23 00:00
+  imgurl: 20200923-olddreamshanghai
+  description:
+
+- title: 2020 “今日全球化明日自己耍”阿那亚专场
+  postertype: tour
+  posterdate: 2020-09-25 00:00
+  imgurl: 20200925-aranya-1
+  description:
+
+- title: 2020 “今日全球化明日自己耍”阿那亚专场
+  postertype: tour
+  posterdate: 2020-09-25 00:00
+  imgurl: 20200925-aranya-2
+  description:
+
+- title: 2020 “今日全球化明日自己耍”阿那亚专场
+  postertype: tour
+  posterdate: 2020-09-25 00:00
+  imgurl: 20200925-aranya-2-2
+  description:
+
+- title: 2020 “今日全球化明日自己耍”阿那亚专场
+  postertype: tour
+  posterdate: 2020-09-25 00:00
+  imgurl: 20200925-aranya-3
+  description:
+
+- title: 2020 南方夜色四城巡演
+  postertype: tour
+  posterdate: 2020-11-04 00:00
+  imgurl: 20201104-southernnight
+  description:
+
+- title: 2020 南方夜色福建演唱会
+  postertype: tour
+  posterdate: 2020-12-21 00:00
+  imgurl: 20201221-southernnight-fj-1
+  description:
+
+# - title: 2020 南方夜色福建演唱会
+#   postertype: tour
+#   posterdate: 2020-12-21 00:00
+#   imgurl: 20201221-southernnight-fj-1-2
+#   description:
 
 ##### MISC #####
+
+################## 2010
+- title: 2010 “根据县城线人改编”山东民谣与海丰小调双星报喜联欢晚会（刘东明+五条人）
+  postertype: misc
+  posterdate: 2010-05-13 00:00
+  imgurl: 20100513-county
+  description:
+
+- title: 2010 民谣救护车——为了佟妍的义演
+  postertype: misc
+  posterdate: 2010-12-19 00:00
+  imgurl: 20101219-ambulance
+  description:
+
+################## 2011
+- title: 2011 五条人原乡民谣音乐会
+  postertype: misc
+  posterdate: 2011-06-18 00:00
+  imgurl: 20110618-folk
+  description:
+
+################## 2012
+- title: Moshi Originals 2012 “符号”LIVE_五条人广州音乐会
+  postertype: misc
+  posterdate: 2012-09-16 00:00
+  imgurl: 20120916-moshi
+  description:
+
+################## 2013
+- title: “我们那的冬天没暖气” 顶马 + 五条人MOMA后山艺术节联欢晚会
+  postertype: misc
+  posterdate: 2013-01-18 00:00
+  imgurl: 20130118-moma-1
+  description:
+
+- title: “我们那的冬天没暖气” 顶马 + 五条人MOMA后山艺术节联欢晚会
+  postertype: misc
+  posterdate: 2013-01-18 00:00
+  imgurl: 20130118-moma-2
+  description:
 
 ################## 2015
 - title: 2015 广东歌与《广东姑娘》
@@ -494,4 +712,53 @@
   postertype: misc
   posterdate: 2017-05-06 00:00
   imgurl: 20170506-poster
+  description:
+
+################## 2020
+- title: 2020 五条人士多店开业大吉
+  postertype: misc
+  posterdate: 2020-08-31 00:00
+  imgurl: 20200831-storeopening
+  description:
+
+- title: 2020 草莓星云“向后看向前走”线上音乐会
+  postertype: misc
+  posterdate: 2020-09-17 00:00
+  imgurl: 20200917-strawberrynebula-1
+  description:
+
+- title: 2020 草莓星云“向后看向前走”线上音乐会
+  postertype: misc
+  posterdate: 2020-09-17 00:00
+  imgurl: 20200917-strawberrynebula-1-1
+  description:
+
+- title: 2020 草莓星云“向后看向前走”线上音乐会
+  postertype: misc
+  posterdate: 2020-09-17 00:00
+  imgurl: 20200917-strawberrynebula-2
+  description:
+
+- title: 2020 五条人士多店快闪
+  postertype: misc
+  posterdate: 2020-11-27 00:00
+  imgurl: 20201127-storeflash
+  description:
+
+- title: draft
+  postertype: misc
+  posterdate: 20200-01-01 00:00
+  imgurl: draft-1
+  description:
+
+- title: draft
+  postertype: misc
+  posterdate: 20200-01-01 00:00
+  imgurl: draft-2
+  description:
+
+- title: draft
+  postertype: misc
+  posterdate: 20200-01-01 00:00
+  imgurl: draft-3
   description:
