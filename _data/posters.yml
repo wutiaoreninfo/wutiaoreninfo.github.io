@@ -482,8 +482,8 @@
   postertype: tour
   posterdate: 2017-03-24 00:00
   specialtype: true
-  thumbnail: 20170324-lisasalontour-ani.gif
-  imgurl: 20170324-lisasalontour-ani.gif
+  thumbnail: /assets/posters/tour/20170324-lisasalontour-ani.gif
+  imgurl: /assets/posters/tour/20170324-lisasalontour-ani.gif
   description:
 
 - title: 2017 梦幻丽莎发廊全国巡演I
@@ -745,20 +745,30 @@
   imgurl: 20201127-storeflash
   description:
 
+
+################## unknown
 - title: draft
   postertype: misc
-  posterdate: 20200-01-01 00:00
+  posterdate: 2020-01-01 00:00
   imgurl: draft-1
   description:
 
 - title: draft
   postertype: misc
-  posterdate: 20200-01-01 00:00
+  posterdate: 2020-01-01 00:00
   imgurl: draft-2
   description:
 
 - title: draft
   postertype: misc
-  posterdate: 20200-01-01 00:00
+  posterdate: 2020-01-01 00:00
   imgurl: draft-3
   description:
+
+#- title: 乌坎仙翁戏台（《一些风景》封面底图） @Dontworry
+#  postertype: misc
+#  posterdate: 2020-01-01 00:00
+#  specialtype: true
+#  thumbnail: https://7775-wutiaoreninfo-2gwrikiwe53b792b-1304396595.tcb.qcloud.la/tk-img/1609748221302-f1d4687642b14e84aafa41f53e569332.jpg
+#  imgurl: https://7775-wutiaoreninfo-2gwrikiwe53b792b-1304396595.tcb.qcloud.la/tk-img/1609748221302-f1d4687642b14e84aafa41f53e569332.jpg
+#  description:

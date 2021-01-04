@@ -16,8 +16,8 @@ title: 海报
     {% for poster in site.data.posters %}
         <div class="poster {{poster.postertype}}">
             {% if poster.specialtype %}
-            <a href="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}" data-caption="{{poster.title}}">
-                <img src="/assets/posters/{{poster.postertype}}/{{poster.thumbnail}}">
+            <a href="{{poster.imgurl}}" data-caption="{{poster.title}}">
+                <img src="{{poster.thumbnail}}">
             </a>
             {% else %}
             <a href="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
