@@ -64,3 +64,9 @@ tags:
 **仁科**：跟我在“西伯利亚”的生活差不多！  
   
 文/郭小寒
+
+## 相关链接
+
+* 传说中的乌坎仙翁戏台 （@Dontworry 供图）
+  
+  ![stage](https://7775-wutiaoreninfo-2gwrikiwe53b792b-1304396595.tcb.qcloud.la/tk-img/1609748221302-f1d4687642b14e84aafa41f53e569332.jpg)
