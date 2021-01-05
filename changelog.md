@@ -9,6 +9,8 @@ title: 更新记录
 
 * 新增 乌坎戏台 图片 至 [【郭小寒】五条人：一些风景一些人]({% link _interviews/2013-01-16-guoxiaohan.md%})
 * 新增 影像\|演出 20131123 [【方所年度展览「从家，到家」开幕式】]({% link _videos/2013-11-23-fangsuo.md %}) @疯马村画者Dontworry 提供演出相关信息
+* 修复 `hit._highlightResult.html` 不存在错误
+* 新增 [【K11 x TME live“天生爱躁”音乐节. 天生爱躁音乐节 采访片段】]({% link _interviews/2020-08-08-k11.md %}) 「相关链接」
 
 #### 2020.01.04
 
