@@ -53,6 +53,10 @@ songimg: rain.gif
 一二一，卡村破条裂，一二三，卡村破个康。爱补没时间，唔补笑死人。阿伯阿姆你麦俏。  
 南是莫布票。
 
+**腾讯视频**：[【海丰儿歌】雨来来](https://v.qq.com/x/page/y0152rrfgu9.html)
+
+<div class="iframe-container"><iframe class="responsive-iframe" src="https://v.qq.com/txp/iframe/player.html?vid=y0152rrfgu9" frameborder="no" allowfullscreen="true"></iframe></div>
+
 ## 背景
 * 引自 [【BITETONE】訪問|五條人：搖滾和民謠的亂燉]({% link _interviews/2014-12-15-bitetone.md %}){:target="_blank"}
   > **茂**：有一次我們到廈門演出，住在一棟精緻的民國時期的小洋樓裡。當時在天臺唱歌，突然下起了小雨，靈感突發，《雨來淋秀才》這首歌就是我們在那個時候寫出來的，很是應景。
