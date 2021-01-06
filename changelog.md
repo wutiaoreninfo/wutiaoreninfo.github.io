@@ -5,6 +5,10 @@ title: 更新记录
 
 **注**：@ 后为信息提供者
 
+#### 2020.01.06
+
+* 修订 [【我的城市This Is My City at SIM São Paulo】]({% link _videos/2018-12-06-timc.md%})、[【葡萄牙 新蒙特莫尔】]({% link _videos/2019-09-08-portugal.md%})、[【猫王音乐台】五条人和那个巴西靓仔的故事]({% link _interviews/2019-01-07-catking.md%}) 日期 @eriiii
+
 #### 2020.01.05
 
 * 新增 乌坎戏台 图片 至 [【郭小寒】五条人：一些风景一些人]({% link _interviews/2013-01-16-guoxiaohan.md%})
