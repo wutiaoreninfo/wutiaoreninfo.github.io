@@ -8,6 +8,10 @@ title: 更新记录
 #### 2020.01.06
 
 * 修订 [【我的城市This Is My City at SIM São Paulo】]({% link _videos/2018-12-06-timc.md%})、[【葡萄牙 新蒙特莫尔】]({% link _videos/2019-09-08-portugal.md%})、[【猫王音乐台】五条人和那个巴西靓仔的故事]({% link _interviews/2019-01-07-catking.md%}) 日期 @eriiii
+* 新增 2015 现场视频 至 未收录歌曲 [四季歌]({% link _songs/2020seasons.md %})
+* 新增 影像\|演出 20141018 [【首届彼岸花开•华语民谣奖之大象民谣音乐季】]({% link _videos/2014-10-18-flower.md%})
+* 新增 视频 请到老祖公 2015.05.08 @麻雀瓦舍 至 歌曲 [《请到老祖公》]({% link _songs/2015ancestors.md %})
+* 新增 影像\|演出 20150403 [【《广东姑娘》首轮巡演深圳站 B10 现场】]({% link _videos/2015-04-03-b10.md%})
 
 #### 2020.01.05
 

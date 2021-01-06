@@ -41,6 +41,10 @@ date: 2020-01-01 11:00
 
 ## 相关链接
 
+* [四季歌](https://v.youku.com/v_show/id_XMTQwMTQ3Mjg0MA==.html)
+
+  <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XMTQwMTQ3Mjg0MA==' frameborder="no" allowfullscreen="true"></iframe></div>
+
 * [四季歌](https://www.bilibili.com/video/BV1kD4y197jw){:target="_blank"}
 
    <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=712621357&bvid=BV1kD4y197jw&cid=248030612&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
