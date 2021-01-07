@@ -45,3 +45,4 @@ albumtype: notincluded
 37. 甜丝丝
 38. [路灯下的小姑娘]({% link _songs/2020-12-31-girlunderthelight.md %}){:target="_blank"}
 39. [梦幻初恋]({% link _songs/2020-12-31-dreamyfirstlove.md %}){:target="_blank"}
+40. [问题出现我会回答大家]({% link _songs/2021-01-07-zhihureply.md %})

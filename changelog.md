@@ -5,6 +5,12 @@ title: 更新记录
 
 **注**：@ 后为信息提供者
 
+#### 2020.01.07
+
+* 新增 访谈 20200107 [【十三邀第】搞不好，它会带来新的生机｜五条人片场故事]({% link _interviews/2021-01-07-13.md%})
+* 新增 未收录歌曲 [《问题出现我会回答大家》]({% link _songs/2021-01-07-zhihureply.md %})
+* 新增 作品 [【土地与歌\|胡茂帆】神明在，戏不衰]({% link _works/2014-05-31-damao.md %}) @猫崽
+
 #### 2020.01.06
 
 * 修订 [【我的城市This Is My City at SIM São Paulo】]({% link _videos/2018-12-06-timc.md%})、[【葡萄牙 新蒙特莫尔】]({% link _videos/2019-09-08-portugal.md%})、[【猫王音乐台】五条人和那个巴西靓仔的故事]({% link _interviews/2019-01-07-catking.md%}) 日期 @eriiii
