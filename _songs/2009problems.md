@@ -46,7 +46,9 @@ songimg: problem.gif
 问题出现我再告诉大家！  
 啦 啦啦
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016980"></iframe>
+<audio controls  loop style="width:60%;">
+<source src="http://isure.stream.qqmusic.qq.com/C400001dzZMG4R0k0i.m4a?guid=2939078848&vkey=AEE6A22059BA99A8438FD597ABF762BDD5DF5AEDE0851064DD72FBA82EB7DEFE33D80E693F681B5FEDBEEF38DCDCAB9B362AB04CE7D1F1CA&uin=0&fromtag=66">
+</audio>
 
 ## 背景
 

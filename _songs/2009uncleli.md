@@ -7,7 +7,9 @@ tags:
 - 县城记（2009）
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016978"></iframe>
+<audio controls  loop style="width:60%;">
+<source src="http://120.41.44.11/amobile.music.tc.qq.com/C400003w7UwT0klg5d.m4a?guid=2939078848&vkey=C697593CEDCC1DF1A6035BF6DB74AAAEFEBBBF713EC6CA739A1DE9AA0078B2B5FB5F6E769BEBCDECE2F361E2CCA9E670202392D9FFC5AB5B&uin=0&fromtag=66">
+</audio>
 
 ## 歌词
 

@@ -7,8 +7,10 @@ tags:
 category: 县城记（2009）
 date: 2009-07-11 11:00
 ---
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016983"></iframe>
 
+<audio controls  loop style="width:60%;">
+<source src="http://120.41.44.13/amobile.music.tc.qq.com/C400004CA7NW33rn7w.m4a?guid=2939078848&vkey=ADB489A5053DFB992AC3EFB0BB67AC70031742A2DB8BC4BE870280E9CDE06781F26BA42B7F5F9504A40013860D81627B523C33835E0DD3A1&uin=0&fromtag=66">
+</audio>
 
 ## 歌词
 
