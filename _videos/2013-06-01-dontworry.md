@@ -18,3 +18,7 @@ tags:
 * **优酷地址**：[问题出现我再告诉大家](https://v.youku.com/v_show/id_XNTY1MTQ2ODY4.html){:target="_blank"}
   
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XNTY1MTQ2ODY4'  frameborder="no" allowfullscreen="true"></iframe></div>
+
+* **优酷地址**：[道山靓仔](https://v.youku.com/v_show/id_XNTY1NTk2NTA0.html)
+  
+  <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XNTY1NTk2NTA0'  frameborder="no" allowfullscreen="true"></iframe></div>
