@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【深圳旧天堂】
+title: 【深圳 旧天堂书店】
 date: 2011-06-26 20:00
 category: liveshow
 tags:

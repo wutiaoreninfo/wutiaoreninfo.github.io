@@ -5,6 +5,15 @@ title: 更新记录
 
 **注**：@ 后为信息提供者
 
+#### 2020.01.12
+
+* 新增 影像\|演出  @疯马村画者Dontworry 整理
+  * 20090308 [【厦门 梦旅人客栈】民谣专场]({% link _videos/2009-03-08-xiamen.md %})
+  * 20100504 [【第十届华语音乐传媒大奖颁奖晚会】]({% link _videos/2010-05-04-mediaawards.md %})
+  * 20101125 [【上海 育音堂】SHI JIE GUAN 巡演]({% link _videos/2010-11-25-shanghai.md %})
+  * 20101202 [【武汉武昌 VOX LIVEHOUSE】SHI JIE GUAN 巡演]({% link _videos/2010-12-02-wuchangvox.md %})
+  * 20170915 [【第一届内耳音乐节】（付费内容）]({% link _videos/2017-09-15-innerear.md %})
+
 #### 2020.01.11
 
 * 新增 访谈 20200824 [【故事长沙\|马桶】我所了解的五条人]({% link _interviews/2020-08-24-changshastory.md%})
