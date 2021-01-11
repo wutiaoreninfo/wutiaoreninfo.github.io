@@ -90,7 +90,7 @@ algolia:
    extensions_to_index: 
       - html
       - md
-   nodes_to_index: 'p,blockquote,li'
+   nodes_to_index: 'p,blockquote,li,table,td'
    files_to_exclude: [index.html,search.html,changelog.md,changelog.html]
    hitsPerPage: 1000
 
