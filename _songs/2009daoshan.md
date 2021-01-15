@@ -8,13 +8,7 @@ category: 县城记（2009）
 date: 2009-07-11 02:00
 ---
 
-<audio controls loop style="width:60%;" src="http://112.48.164.144/amobile.music.tc.qq.com/C400003sU3J01oa15Q.m4a?guid=2939078848&vkey=ED75AC7B8C3FF1343ACE2B471171F727AFCD7C0F8471BC9B5A3F198CA43A4E03FB15D316669B02784FEA3157F6AEC5E691E7D867BA3C9CC1&uin=0&fromtag=66">
-您的浏览器不支持 audio 标签。
-</audio>
-
-{% comment %}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1769016974"></iframe>
-{% endcomment %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587844&auto=1&height=66"></iframe>
 
 ## 歌词
 **道山靓仔**

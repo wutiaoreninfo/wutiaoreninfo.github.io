@@ -7,9 +7,7 @@ tags:
 - 县城记（2009）
 ---
 
-<audio controls  loop style="width:60%;">
-<source src="http://isure.stream.qqmusic.qq.com/C4000030s0Wy4brzfT.m4a?guid=2939078848&vkey=C8238506A8DFB6802D99F9BB133C44B424665A257DF6F7E5DC6B5D9A136225AB6860A748A9BD145CB409F7FC08895DF2756211D8ABDD68AA&uin=0&fromtag=66">
-</audio>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587851&auto=1&height=66"></iframe>
 
 ## 歌词
 

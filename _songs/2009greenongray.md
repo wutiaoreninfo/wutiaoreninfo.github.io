@@ -6,9 +6,8 @@ tags:
 - 歌曲
 - 县城记（2009）
 ---
-<audio controls  loop style="width:60%;">
-<source src="http://isure.stream.qqmusic.qq.com/C400004GT5S42DkRw0.m4a?guid=2939078848&vkey=F994B31D9B815DB2C9E042993C1FBDEA110F5BDB2DC79A68A8AA82C8CB4E2A2329475EBA171E2841976CAA5B4C273D13C266B1F6576C8BB2&uin=0&fromtag=66">
-</audio>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587852&auto=1&height=66"></iframe>
 
 ## 歌词
 
@@ -24,6 +23,10 @@ tags:
 绿苍苍 绿苍苍 绿苍苍
 
 ## 背景
+
+* 引自 [【土地与歌\|胡茂帆】神明在，戏不衰]({% link _works/2014-05-31-damao.md %}){:target="_blank"}
+  
+  > 《绿苍苍》，一首海丰渔歌的名字。一位中学老师罗世策教的（他还教学生学唱海丰白字戏唱段），歌词已忘，只是美好的旋律和这位老师得癌症早逝之事没忘。他得癌症后，我竟不敢去看望他，出殡那天也没去，可能是怕听见大家的哭声。这事让我愧疚至今。后来我根据旋律编了一点歌词……
 
 * 引自 @區區500元先生 新浪博客文章 [《我的县城记》](http://blog.sina.com.cn/s/blog_4b980b3b0100f9r1.html){:target="_blank"}
   

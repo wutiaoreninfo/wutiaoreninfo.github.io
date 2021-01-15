@@ -5,6 +5,9 @@ date: 2012-05-25 01:00
 tags:
 - 歌曲
 - 一些风景（2012）
+related: 
+- url: ../works/2014-05-31-damao.html
+  title: 【土地与歌|胡茂帆】神明在，戏不衰
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587866&auto=1&height=66"></iframe>

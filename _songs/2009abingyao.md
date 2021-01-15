@@ -8,9 +8,8 @@ category: 县城记（2009）
 date: 2009-07-11 11:00
 ---
 
-<audio controls  loop style="width:60%;">
-<source src="http://120.41.44.13/amobile.music.tc.qq.com/C400004CA7NW33rn7w.m4a?guid=2939078848&vkey=ADB489A5053DFB992AC3EFB0BB67AC70031742A2DB8BC4BE870280E9CDE06781F26BA42B7F5F9504A40013860D81627B523C33835E0DD3A1&uin=0&fromtag=66">
-</audio>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587853&auto=1&height=66"></iframe>
+
 
 ## 歌词
 

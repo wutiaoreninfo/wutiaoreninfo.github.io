@@ -46,9 +46,7 @@ songimg: problem.gif
 问题出现我再告诉大家！  
 啦 啦啦
 
-<audio controls  loop style="width:60%;">
-<source src="http://isure.stream.qqmusic.qq.com/C400001dzZMG4R0k0i.m4a?guid=2939078848&vkey=AEE6A22059BA99A8438FD597ABF762BDD5DF5AEDE0851064DD72FBA82EB7DEFE33D80E693F681B5FEDBEEF38DCDCAB9B362AB04CE7D1F1CA&uin=0&fromtag=66">
-</audio>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28587850&auto=1&height=66"></iframe>
 
 ## 背景
 
