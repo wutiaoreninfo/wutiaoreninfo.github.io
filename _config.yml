@@ -38,6 +38,10 @@ collections:
     title: 报道
     default_open: true
     output: true
+  commercials:
+    title: 商务广告
+    default_open: true
+    output: true
 
 defaults:
   - scope:
@@ -45,36 +49,6 @@ defaults:
     values:
       title: Essays
       permalink: /post/:title
-  - scope:
-      type: Interviews
-    values:
-      title: 访谈
-      permalink: /interviews/:title
-  - scope:
-      type: Songs
-    values:
-      title: 歌曲
-      permalink: /songs/:title
-  - scope:
-      type: Albums
-    values:
-      title: 专辑
-      permalink: /albums/:title
-  - scope:
-      type: Works
-    values:
-      title: 发表图文
-      permalink: /works/:title
-  - scope:
-      type: Videos
-    values:
-      title: 视频
-      permalink: /videos/:title
-  - scope:
-      type: Reports
-    values:
-      title: 报道
-      permalink: /reports/:title
 
 plugins:
   - jekyll-sitemap

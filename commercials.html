@@ -1,0 +1,21 @@
+---
+layout: page
+title: 商务广告
+---
+
+{% assign allcommercials = site.commercials | reverse %}
+
+<main class="home-main">
+  <div class="allcommercials-container">
+      {% for commercial in allcommercials%}
+        <div class="commercial-container">
+            <div class="commercial-thumbnail">
+                <a href="{{commercial.url}}"><img src="/assets/commercials/{{commercial.thumbnail}}"></a>
+            </div>
+            <div class="commercial-title">
+                <a href="{{commercial.url}}">{{commercial.title}}</a>
+            </div>
+        </div>
+      {% endfor %}
+  </div>
+</main>

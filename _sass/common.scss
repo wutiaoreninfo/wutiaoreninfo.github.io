@@ -428,6 +428,31 @@ margin: 8px auto;
 height: 100%;
 }
 
+//for commercials
+.allcommercials-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:flex-start;
+  width:100%;
+  align-items: flex-end;
+}
+
+.commercial-container {
+  max-width:150px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.commercial-thumbnail {
+  width:100%;
+  background-size: cover;
+}
+
+.commercial-title {
+  width:100%;
+  text-align: center;
+}
+
 // media queries
 @media screen and (max-width: 700px) {
   body {margin: 8px;}
