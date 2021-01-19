@@ -13,7 +13,7 @@ title: 商务广告
                 <a href="{{commercial.url}}"><img src="/assets/commercials/{{commercial.thumbnail}}"></a>
             </div>
             <div class="commercial-title">
-                <a href="{{commercial.url}}">{{commercial.title}}</a>
+                <a href="{{commercial.url}}">{{commercial.title}}<br>{{commercial.date | date: "%Y-%m-%d"}} </a>
             </div>
         </div>
       {% endfor %}
