@@ -66,6 +66,6 @@ algolia:
       - md
    nodes_to_index: 'p,blockquote,li,tr'
    files_to_exclude: [index.html,search.html,changelog.md,changelog.html]
-   hitsPerPage: 1000
+   hitsPerPage: 500
 
 exclude: [vendor]
