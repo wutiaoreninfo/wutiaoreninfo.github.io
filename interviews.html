@@ -12,6 +12,7 @@ title: 访谈
 
 <main class="home-main">
 {% for year in postsByYear %}
+  {% assign itemcount = year.items.size %}
   <section id="posts">
     {% if forloop.first %}
      <details open>
@@ -19,7 +20,7 @@ title: 访谈
      <details>
     {% endif %}
       <summary>
-        <h3 class="home-page-heading">{{ year.name }}</h3>
+        <h3 class="home-page-heading">{{ year.name }}</h3> <span class="item-count">({{itemcount}})</span>
       </summary>
       <div class="parent">
         {% assign sortItem = year.items | reverse %}
