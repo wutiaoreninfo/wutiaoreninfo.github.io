@@ -19,11 +19,11 @@ title: 海报
         <div class="poster {{poster.postertype}}">
             {% if poster.specialtype %}
             <a href="{{poster.imgurl}}" data-caption="{{poster.title}}">
-                <img src="{{poster.thumbnail}}">
+                <img src="{{poster.thumbnail}}" loading="lazy">
             </a>
             {% else %}
             <a href="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
-                <img src="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}-s.jpg">
+                <img src="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}-s.jpg" loading="lazy">
             </a>
             {% endif %}
         </div>
