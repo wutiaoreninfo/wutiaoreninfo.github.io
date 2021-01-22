@@ -9,7 +9,7 @@ html, body {
 
 body {
   font-size: 16px;
-  font-family: var(--typography__default);
+  font-family:  "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans-serif;
   font-weight: 400;
   display: flex;
   flex-direction: column;
@@ -106,7 +106,7 @@ a:hover {
 .post-date {
   //width: 3rem;
   flex-shrink: 0;
-  margin-left: 1.1rem;
+  margin-left: 1.2rem;
   margin-right: 0.6rem;
 }
 
