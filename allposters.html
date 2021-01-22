@@ -12,8 +12,10 @@ title: 海报
   </div>
 <br>
 
+{% assign allposters = site.data.posters | sort: 'posterdate' | reverse %}
+
 <div class="poster-container">
-    {% for poster in site.data.posters %}
+    {% for poster in allposters %}
         <div class="poster {{poster.postertype}}">
             {% if poster.specialtype %}
             <a href="{{poster.imgurl}}" data-caption="{{poster.title}}">

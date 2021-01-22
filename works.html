@@ -21,8 +21,9 @@ title: 作品
 </div>
 
 <h2>海报</h2>
+{% assign allposters = site.data.posters | sort: 'posterdate' | reverse %}
 <div class="poster-container">
-  {% for poster in site.data.posters limit:4 %}
+  {% for poster in allposters limit:4 %}
       <div class="poster show">
           <a data-fancybox="gallery" href="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}.jpg" data-caption="{{poster.title}}">
               <img src="/assets/posters/{{poster.postertype}}/{{poster.imgurl}}-s.jpg">
