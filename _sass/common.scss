@@ -115,28 +115,6 @@ a:hover {
   font-size: 1rem;
 }
 
-.prev {
-  max-width: 50%;
-  float: left;
-  text-align: left;
-}
-
-.next {
-  max-width: 50%;
-  float: right;
-  text-align: right
-}
-
-.pagination {
-  font-size: 1.25rem;
-  padding: 1rem 0;
-}
-
-.pagination::after {
-  content: "";
-  clear: both;
-  display: block
-}
 
 blockquote {
   margin: 1.0rem 0;
@@ -283,9 +261,6 @@ details[open] summary ~ * {
 }
 
 
-
-
-
 @keyframes sweep {
   0%    {opacity: 0; margin-top: -10px}
   100%  {opacity: 1; margin-top: 0px}
@@ -382,7 +357,7 @@ table tr th:nth-child(2){
 .poster-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content:space-evenly;
+  justify-content:flex-start;
   width:100%;
   align-items: stretch;
 }
@@ -476,6 +451,27 @@ height: 100%;
 
 .item-count {
   color:rgb(100, 100, 100);
+}
+
+.gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:flex-start;
+  width:100%;
+  align-items: stretch;
+}
+
+.gallery-item {
+  flex: 1 1 200px;
+  max-width:150px;
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+}
+
+.gallery-item img {
+  width:100%;
+  object-fit: cover;
 }
 
 // media queries

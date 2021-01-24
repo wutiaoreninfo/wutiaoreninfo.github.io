@@ -69,3 +69,6 @@ algolia:
    hitsPerPage: 500
 
 exclude: [vendor]
+
+# random quotes
+randomquotesenabled: false
