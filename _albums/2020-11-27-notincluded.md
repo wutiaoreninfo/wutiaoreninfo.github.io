@@ -46,3 +46,5 @@ albumtype: notincluded
 38. [路灯下的小姑娘]({% link _songs/2020-12-31-girlunderthelight.md %}){:target="_blank"}
 39. [梦幻初恋]({% link _songs/2020-12-31-dreamyfirstlove.md %}){:target="_blank"}
 40. [问题出现我会回答大家]({% link _songs/2021-01-07-zhihureply.md %})
+41. [草原的故事](https://www.bilibili.com/video/av928126950/)
+42. [地球恋曲](https://m.weibo.cn/status/4595858731442388?)

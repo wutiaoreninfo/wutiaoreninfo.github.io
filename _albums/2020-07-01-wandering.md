@@ -5,10 +5,11 @@ date: 2020-07-01 00:00
 featured: false
 albumtype: officialalbum
 ---
-<img src="/assets/imgs/wandering2020.webp">
+<img src="/assets/imgs/wandering2020.webp" width="80%">
+<img src="https://7775-wutiaoreninfo-2gwrikiwe53b792b-1304396595.tcb.qcloud.la/tk-img/1611283049630-fa2391ea2b044b1d8b1b63d520749918.jpg" width="80%">
 *专辑设计：胡子*
 
-本专辑选自[Salão Brasil（科英布拉）]({% link _videos/2019-09-05-portugal.md %}){:target="_blank"}、Atlas Hostel（莱里亚）两场演出。
+本专辑选自[Salão Brasil（科英布拉）]({% link _videos/2019-09-05-portugal.md %})、Atlas Hostel（莱里亚）两场演出。可前往 [**QQ 音乐**](https://y.qq.com/n/yqq/album/0034bsOw3tB1ED.html) 试听。
 
 五条人2019葡萄牙巡演路线图:
 ![](https://inews.gtimg.com/newsapp_bt/0/11625732474/1000)
