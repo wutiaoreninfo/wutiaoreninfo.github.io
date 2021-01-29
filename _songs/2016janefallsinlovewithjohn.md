@@ -39,7 +39,7 @@ songimg: janejohn.webp
 
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://v.qq.com/txp/iframe/player.html?vid=i0034dd678x' frameborder="no" allowfullscreen="true"></iframe></div>
 
-* [收工耿|柴油机改音箱](https://www.bilibili.com/video/av81450490/)
+* [手工耿|柴油机改音箱](https://www.bilibili.com/video/av81450490/)
   <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=81450490&bvid=BV14J411h7TA&cid=139392694&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
 * [刺客伍六七](https://www.bilibili.com/bangumi/play/ss6360/){:target="_blank"}
