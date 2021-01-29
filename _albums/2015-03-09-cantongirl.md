@@ -6,7 +6,7 @@ featured: true
 albumtype: officialalbum
 ---
 
-<img src="{{site.cdn}}/assets/imgs/cantongirl2015.jpg">
+<img src="/assets/imgs/cantongirl2015.jpg">
 *专辑设计：胡子*
 
 **发行时间**：2015 年 3 月 9 日  

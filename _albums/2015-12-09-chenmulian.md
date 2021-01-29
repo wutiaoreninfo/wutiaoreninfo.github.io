@@ -6,7 +6,7 @@ featured: false
 albumtype: single
 ---
 
-<img src="{{site.cdn}}/assets/imgs/chenmulian2015.jpg">
+<img src="/assets/imgs/chenmulian2015.jpg">
 
 **发行时间**：2015 年 12 月 9 日
 
