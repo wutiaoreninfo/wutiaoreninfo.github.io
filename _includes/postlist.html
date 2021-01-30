@@ -1,0 +1,29 @@
+<main class="home-main">
+    {% for year in include.postsByYear %}
+        {% assign itemcount = year.items.size %}
+        <section id="posts">
+        {% if include.openfirstonly %}
+            {% if forloop.first %}
+                <details open>
+            {% else %}
+                <details>
+            {% endif %}
+        {% else %}
+            <details open>
+        {% endif %}
+            <summary>
+                <h3 class="home-page-heading">{{ year.name }}</h3> <span class="item-count">({{itemcount}})</span>
+            </summary>
+            <div class="parent">
+            {% assign sortItem = year.items | reverse %}
+            {% for post in sortItem %}
+                <div class="post-wrapper">
+                    <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d" }}</time>
+                    <a class="post-link" href="{{ post.url }}" target="_blank" >{{ post.title }}</a>
+                </div>
+            {% endfor %}
+          </div>
+        </details>
+      </section>
+    {% endfor %}
+</main>

@@ -2,39 +2,9 @@
 layout: page
 title: 演出视频
 ---
-{% comment %}
-{% assign videos = site.videos | where: "category", "liveshow"  | reverse %}
-
-{% for post in videos %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%Y" }}<br><small>{{ post.date | date: "%m-%d" }}</small></time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
-{% endcomment %}
 
 <p><b>相关链接</b>：豆瓣 eriiii 整理的 <a href="https://www.douban.com/note/785136060/" target="_blank">五条人时间线（巡演、活动、行程）</a></p>
 
 {% assign postsByYear = site.videos | where: "category", "liveshow" | group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
 
-<main class="home-main">
-{% for year in postsByYear %}
-{% assign itemcount = year.items.size %}
-  <section id="posts">
-     <details open>
-      <summary>
-        <h3 class="home-page-heading">{{ year.name }}</h3> <span class="item-count">({{itemcount}})</span>
-      </summary>
-      <div class="parent">
-        {% assign sortItem = year.items | reverse %}
-        {% for post in sortItem %}
-          <div class="post-wrapper">
-            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d" }}</time>
-            <a class="post-link" href="{{ post.url }}" target="_blank" >{{ post.title }}</a>
-          </div>
-        {% endfor %}
-      </div>
-    </details>
-  </section>
-{% endfor %}
-</main>
+{% include postlist.html postsByYear=postsByYear openfirstonly=false %}
