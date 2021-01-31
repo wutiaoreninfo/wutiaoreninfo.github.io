@@ -72,3 +72,6 @@ exclude: [vendor]
 
 # random quotes
 randomquotesenabled: false
+
+# show commercials
+showcommercials: false

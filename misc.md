@@ -3,9 +3,13 @@ layout: page
 title: 走神
 ---
 
+{% if site.showcommercials %}
+
 ### 商务广告
 
 * [五条人的商务广告](commercials.html)
+
+{% endif%}
 
 ### 友情链接
 
