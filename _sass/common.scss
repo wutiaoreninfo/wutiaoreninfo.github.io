@@ -357,7 +357,7 @@ table tr th:nth-child(2){
 .poster-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content:flex-start;
+  justify-content:space-around;
   width:100%;
   align-items: stretch;
 }
@@ -407,19 +407,17 @@ height: 100%;
 .allcommercials-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content:flex-start;
+  justify-content:space-around;
   width:100%;
   align-items: flex-end;
 }
 
 .commercial-container {
   max-width:150px;
-  margin: 5px;
+  margin-top: 5px;
   margin-bottom: 15px;
   padding: 0px 0px 5px 0px;
   height: 10rem;
-  //box-shadow: 0 0 1px 1px rgb(199, 199, 199);
-  //border-radius: 3px 3px 3px 3px;
 }
 
 .commercial-thumbnail {
