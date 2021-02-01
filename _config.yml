@@ -74,4 +74,4 @@ exclude: [vendor]
 randomquotesenabled: false
 
 # show commercials
-showcommercials: false
+showcommercials: true

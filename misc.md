@@ -5,9 +5,9 @@ title: 走神
 
 {% if site.showcommercials %}
 
-### 商务广告
+### 商务活动
 
-* [五条人的商务广告](commercials.html)
+* [五条人的商务活动](commercials.html)
 
 {% endif%}
 
