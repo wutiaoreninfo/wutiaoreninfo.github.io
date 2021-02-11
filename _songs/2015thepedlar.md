@@ -7,8 +7,6 @@ tags:
 - 广东姑娘（2015）
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1774044663"></iframe>
-
 ## 歌词
 
 **走鬼**
@@ -45,6 +43,7 @@ tags:
 赵云：卖书的小贩，姓赵，江湖人称“赵云”
 
 ## 背景
+
 * 引自 [【Para Site藝術空間】《土尾世界》展覽系列活動——「嵇康唱片的真實想像」對談及演出]({% link _interviews/2015-05-17-hiddenagenda.md%}){:target="_blank"} 47:30 开始
   > **阿茂**：这是我在摆地摊的时候所见识的，真真正正的，实实在在的，一首歌。
   >
@@ -64,6 +63,6 @@ tags:
 
 ## 相关链接
 
-- [五条人 走鬼](https://v.qq.com/x/page/h0389pnjdsv.html){:target="_blank"}
+* [五条人 走鬼](https://v.qq.com/x/page/h0389pnjdsv.html){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://v.qq.com/txp/iframe/player.html?vid=h0389pnjdsv' frameborder="no" allowfullscreen="true"></iframe></div>

@@ -10,17 +10,12 @@
       apiKey: '{{ site.algolia.search_only_api_key }}',
       indexName: '{{ site.algolia.index_name }}',
       routing: true,
-      //stalledSearchDelay: 200, // this is the default value for the delay
       searchFunction(helper) {
         const container = document.querySelector('#search-hits');
         container.style.display = helper.state.query === '' ? 'none' : '';
 
         helper.search();
       },
-      //queryHook(query, refine) {
-      //clearTimeout(timerId);
-      //timerId = setTimeout(() => refine(query), 500);
-      //},
     });
 
     
@@ -60,7 +55,7 @@
       instantsearch.widgets.searchBox({
         container: '#search-searchbar',
         placeholder: '搜索文章',
-        poweredBy: true, // This is required if you're on the free Community plan
+        poweredBy: true, 
         showLoadingIndicator: true,
       })
     );

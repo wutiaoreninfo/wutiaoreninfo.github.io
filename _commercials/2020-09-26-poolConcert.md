@@ -12,19 +12,23 @@ related:
    title: 先生专访 | 五条人：该尴尬就尴尬
 ---
 
-* [泳池派对预告](https://www.bilibili.com/video/BV1rN411d7Qa) \| [原文](https://weibo.com/1195397063/JmrukqpXm)
+### 泳池派对视频
+
+[**泳池派对预告**](https://www.bilibili.com/video/BV1rN411d7Qa) \| [原文](https://weibo.com/1195397063/JmrukqpXm)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=501291784&bvid=BV1rN411d7Qa&cid=287213596&page=1" frameborder="no" allowfullscreen="true"></iframe></div>
 
-* [泳池派对：十年水流动十年水流西](https://www.bilibili.com/video/BV1rN411d7Qa?p=4) \| [原文](https://weibo.com/1195397063/JmrMB2K1x)
+[**泳池派对：十年水流动十年水流西**](https://www.bilibili.com/video/BV1rN411d7Qa?p=4) \| [原文](https://weibo.com/1195397063/JmrMB2K1x)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=501291784&bvid=BV1rN411d7Qa&cid=287213877&page=4" frameborder="no" allowfullscreen="true"></iframe></div>
 
-* [泳池派对：蒙娜丽莎发廊](https://www.bilibili.com/video/BV1rN411d7Qa?p=3) \| [原文](https://weibo.com/1195397063/JmrSGBueU)
+[**泳池派对：蒙娜丽莎发廊**](https://www.bilibili.com/video/BV1rN411d7Qa?p=3) \| [原文](https://weibo.com/1195397063/JmrSGBueU)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=501291784&bvid=BV1rN411d7Qa&cid=287213766&page=3" frameborder="no" allowfullscreen="true"></iframe></div>
 
-* [泳池派对采访](https://www.bilibili.com/video/BV1rN411d7Qa?p=2) \| [原文](https://weibo.com/1195397063/JmrGvl0Gu)
+[**泳池派对采访**](https://www.bilibili.com/video/BV1rN411d7Qa?p=2) \| [原文](https://weibo.com/1195397063/JmrGvl0Gu)
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=501291784&bvid=BV1rN411d7Qa&cid=287213667&page=2" frameborder="no" allowfullscreen="true"></iframe></div>
 
-* 杂志拍摄 \| [原文](https://weibo.com/1195397063/JjfGvwFGu)
+### 杂志拍摄  
+
+[原文](https://weibo.com/1195397063/JjfGvwFGu)
 
 ![](https://wx2.sinaimg.cn/mw1024/001iTLnNly1gig0thm8akj62ve3qvx6q02.jpg)
 
@@ -32,7 +36,7 @@ related:
 
 ![](https://wx2.sinaimg.cn/mw1024/001iTLnNly1gig0tjaxyyj61yn2lxb2902.jpg)
 
-* [原文](https://weibo.com/1195397063/Jms4VtaqJ)
+[原文](https://weibo.com/1195397063/Jms4VtaqJ)
 
 ![](https://wx1.sinaimg.cn/large/001iTLnNly4gj2ztzumq4j60u00khtd502.jpg)
 
@@ -40,7 +44,7 @@ related:
 
 ![](https://wx3.sinaimg.cn/large/001iTLnNly4gj2ztzx96bj60u013478k02.jpg)
 
-* [原文](https://weibo.com/1195397063/JoAsayN0B)
+[原文](https://weibo.com/1195397063/JoAsayN0B)
 
 ![](https://wx4.sinaimg.cn/mw1024/001iTLnNly1gjkksqulbwj60rq10zkjl02.jpg)
 

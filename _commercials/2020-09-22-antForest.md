@@ -16,6 +16,6 @@ tags:
 
 ![](https://wx1.sinaimg.cn/mw1024/69605b9egy1giy2tkhtn6j20ku112gsu.jpg)
 
-* [宣传视频](https://www.bilibili.com/video/BV1jT4y1K7jB?p=19) \| [原文](https://weibo.com/6226754317/JlMgTqjGU)
+[**宣传视频**](https://www.bilibili.com/video/BV1jT4y1K7jB?p=19) \| [原文](https://weibo.com/6226754317/JlMgTqjGU)
 
 <div class="iframe-container"><iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=928718110&bvid=BV1jT4y1K7jB&cid=286215489&page=19" frameborder="no" allowfullscreen="true"></iframe></div>

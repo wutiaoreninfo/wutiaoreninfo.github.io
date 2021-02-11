@@ -75,3 +75,18 @@ randomquotesenabled: false
 
 # show commercials
 showcommercials: true
+
+# compress sass
+sass:
+  style: compressed
+
+#
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: [html, head, body]

@@ -1,0 +1,10 @@
+{% assign videos = site.videos | where: "category", include.category  | reverse %}
+
+{% assign listlimit = include.limit | default: videos.size %}
+
+{% for post in videos limit: listlimit%}
+    <div class="post-wrapper">
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
+    </div>
+{% endfor %}

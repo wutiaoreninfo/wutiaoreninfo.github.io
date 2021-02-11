@@ -5,58 +5,17 @@ title: 影像
 <h4>纪录片、演讲、演出等视频</h4>
 
 <h2>纪录片</h2>
-{% assign videos = site.videos | where: "category", "documentary" | reverse%}
-
-{% for post in videos %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
+{% include videolist.html category="documentary" %}
 
 <h2>演讲</h2>
-{% assign videos = site.videos | where: "category", "speech"  | reverse %}
-
-{% for post in videos %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
+{% include videolist.html category="speech" %}
 
 <h2>演出</h2>
-{% assign videos = site.videos | where: "category", "liveshow"  | reverse %}
+{% include videolist.html category="liveshow" limit=10 %}
 
-{% for post in videos limit:10 %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%Y" }}</time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
 <div class="post-wrapper">
     <a href="/liveshow" style="margin-left:1.1rem;"><b>更多……</b></a>
-  </div>
+</div>
 
 <h2>其他</h2>
-{% assign videos = site.videos | where: "category", "misc"  | reverse %}
-
-{% for post in videos %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
-
-{% assign videos = site.videos | where: "category", "mv"  | reverse %}
-{% if videos.size > 0 %}
-<h2>MV</h2>
-
-{% for post in videos %}
-    <div class="post-wrapper">
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
-        <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
-    </div>
-{% endfor %}
-{% endif %}
-
-
+{% include videolist.html category="misc" %}

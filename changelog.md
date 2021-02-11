@@ -11,6 +11,15 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2021.02.11
+
+* 新增 走神\|商务活动 20201103-20210201 条目 @eriiii 整理
+* 新增 访谈 20201224 [【看理想\|梁文道】五条人x梁文道：我们为什么对荒诞着迷？]({% link _interviews/2020-12-24-vistopia.md %}) 文字 @eriiii
+* 新增 访谈 20210205 [【Apple Music】五条人劲歌金曲]({% link _interviews/2021-02-05-applemusic.md%}) @eriiii
+* Refactor video list
+* Update Twikoo to v1.2.2-beta
+* Add sass and html compression
+
 #### 2021.02.05
 
 * 新增 影像\|演讲 20171029 [【青年烩\|何以观我身：Canton】]({% link _videos/2017-10-29-youth.md %}) @疯马村画者Dontworry 整理

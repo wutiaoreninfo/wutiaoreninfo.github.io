@@ -20,3 +20,4 @@ title: 走神
 * [【微博】BADHEAD厂牌](https://weibo.com/p/1006067391206072)
 * [【微博】旧天堂阿飞](https://weibo.com/oldheaven)
 * [【电台】行走的耳朵](https://www.lizhi.fm/user/395219)
+* [【微博】博尔赫斯书店](https://weibo.com/cantonbon?is_all=1)
