@@ -43,6 +43,7 @@ title: 作品
         <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
+    <hr class="post-bottom">
 {% endfor %}
 <div class="post-wrapper">
   <a href="/publications" style="margin-left:1.1rem;"><b>更多……</b></a>
