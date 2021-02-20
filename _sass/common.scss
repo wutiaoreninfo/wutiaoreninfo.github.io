@@ -106,13 +106,16 @@ a:hover {
 .post-date {
   width: 3.6rem;
   flex-shrink: 0;
-  margin-left: 1.2rem;
 }
 
 .post-wrapper {
   display: flex;
-  margin: 0.8em 0;
+  margin-left: 1.2rem;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
   font-size: 1rem;
+  border-bottom: 0.6px solid;
+  border-image: linear-gradient(to right, gray, lightgray 50%, white 100%) 1;
 }
 
 .post-wrapper a {
@@ -237,12 +240,6 @@ hr.stylish {
   height: 1px;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0));
   margin: 5px 0;
-}
-
-hr.post-bottom {
-  border: 1px;
-  border-top: 1px dotted gray;
-  margin-left: 1.2rem;
 }
 
 .nav-item {

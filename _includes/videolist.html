@@ -7,5 +7,4 @@
         <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
         <a class="post-link" href="{{ post.url }}" >{{ post.title }}</a>
     </div>
-    <hr class="post-bottom">
 {% endfor %}
