@@ -17,6 +17,10 @@ title: 走神
 * [區區500元先生的微博](https://weibo.com/dssjsd)
 * [胡子的微博](https://weibo.com/u/1348124485)
 
+## 商务活动
+
+* [五条人的商务活动](commercials.html)
+
 ## 友情链接
 
 * [[微博]张晓舟](https://weibo.com/u/1225963240)
@@ -27,11 +31,3 @@ title: 走神
 * [[微博]旧天堂阿飞](https://weibo.com/oldheaven)
 * [[电台]行走的耳朵](https://www.lizhi.fm/user/395219)
 * [[微博]博尔赫斯书店](https://weibo.com/cantonbon?is_all=1)
-
-{% if site.showcommercials %}
-
-## 商务活动
-
-* [五条人的商务活动](commercials.html)
-
-{% endif%}

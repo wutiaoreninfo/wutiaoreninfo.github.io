@@ -73,9 +73,6 @@ exclude: [vendor]
 # random quotes
 randomquotesenabled: false
 
-# show commercials
-showcommercials: true
-
 # compress sass
 sass:
   style: compressed
