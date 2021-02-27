@@ -114,7 +114,9 @@ a:hover {
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   font-size: 1rem;
-  border-bottom: 0.6px solid;
+  border-width: 0 0 0.6px 0;
+  border-bottom-style:solid;
+  border-bottom-width: 0.6px;
   border-image: linear-gradient(to right, gray, lightgray 50%, white 100%) 1;
 }
 
