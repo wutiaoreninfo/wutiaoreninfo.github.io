@@ -28,10 +28,7 @@ title: 走神
 * [[电台]行走的耳朵](https://www.lizhi.fm/user/395219)
 * [[微博]博尔赫斯书店](https://weibo.com/cantonbon?is_all=1)
 
-## 商务活动
-
-* [五条人的商务活动](commercials.html)
-
 ## 无处安放
 
+* [五条人的商务活动](commercials.html)
 * [五条人乐队：我们最近爱读这三本书](https://apps.apple.com/cn/story/id1550573892)
