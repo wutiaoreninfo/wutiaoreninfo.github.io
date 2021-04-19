@@ -3,8 +3,6 @@ layout: page
 title: 演出视频
 ---
 
-<p><b>相关链接</b>：豆瓣 eriiii 整理的 <a href="https://www.douban.com/note/785136060/" target="_blank">五条人时间线（巡演、活动、行程）</a></p>
-
 {% assign postsByYear = site.videos | where: "category", "liveshow" | group_by_exp:"post", "post.date | date: '%Y'" | reverse %}
 
 {% include postlist.html postsByYear=postsByYear openfirstonly=false %}
