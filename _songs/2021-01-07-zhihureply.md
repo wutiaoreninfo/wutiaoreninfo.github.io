@@ -2,7 +2,7 @@
 layout: post
 title: 问题出现我会回答大家
 tags:
-- 歌曲
+- 广告歌曲
 ---
 
 [QQ 音乐](https://y.qq.com/n/yqq/song/000rwX802QTrLc.html?ADTAG=h5_playsong&no_redirect=1)

@@ -2,7 +2,7 @@
 layout: post
 title: 厨房的故事
 tags:
-- 歌曲
+- 广告歌曲
 - 厨房的故事（2020）
 ---
 <img src="{{site.cdn}}/assets/imgs/kitchen2020.webp">
