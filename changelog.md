@@ -11,6 +11,10 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2021.06.07
+
+* 新增 歌词/链接 至 未收录歌曲 20210607 [伤心的人]({% link _songs/2020heartbroken.md  %})
+
 #### 2021.06.04
 
 * 新增 未收录歌曲 20210521 [Surprise]({% link _songs/2021-05-21-surprise.md %})
