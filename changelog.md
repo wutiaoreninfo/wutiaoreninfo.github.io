@@ -11,6 +11,11 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2021.06.10
+
+* 新增 MV 至 未收录歌曲 20210607 [伤心的人]({% link _songs/2020heartbroken.md  %})
+* 移除 陈木莲 虾米链接
+
 #### 2021.06.07
 
 * 新增 歌词/链接 至 未收录歌曲 20210607 [伤心的人]({% link _songs/2020heartbroken.md  %})

@@ -9,8 +9,6 @@ related:
    title: 【乐童音乐|音乐肖像】音乐人谈｜五条人：拒绝把生活抒情化
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1775367898"></iframe>
-
 ## 歌词
 
 主唱：茂涛 仁科  
