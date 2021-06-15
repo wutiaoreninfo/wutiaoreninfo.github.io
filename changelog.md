@@ -11,6 +11,10 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2021.06.15
+
+* 新增 作品 20210611 [【微博\|仁科】热带评论]({% link _works/2021-06-11-tropical.md %})
+
 #### 2021.06.10
 
 * 新增 MV 至 未收录歌曲 20210607 [伤心的人]({% link _songs/2020heartbroken.md  %})
