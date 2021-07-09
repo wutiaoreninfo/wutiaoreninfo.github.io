@@ -7,7 +7,7 @@ tags:
 - 广东姑娘（2015）
 ---
 
-<audio controls style="width:80%;alignment:center;"><source src="https://aod.cos.tx.xmcdn.com/group29/M03/2A/97/wKgJWVkdYMLAiaXaABgXtq0-T08268.m4a" type="audio/mp4"></audio>
+<audio controls loop style="width:80%;alignment:center;"><source src="https://aod.cos.tx.xmcdn.com/group29/M03/2A/97/wKgJWVkdYMLAiaXaABgXtq0-T08268.m4a" type="audio/mp4"></audio>
 
 ## 歌词
 
