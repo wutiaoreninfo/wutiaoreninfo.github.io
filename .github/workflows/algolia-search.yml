@@ -22,7 +22,7 @@ jobs:
             ${{ runner.os }}-gems-
             
       - name: Algolia Jekyll Action
-        uses: dieghernan/algolia-jekyll-action@v1
+        uses: wutiaoreninfo/algolia-jekyll-action@v1
         with:
           APIKEY: '${{ secrets.ALGOLIA_API_KEY }}'
 
