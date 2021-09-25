@@ -3,11 +3,6 @@ layout: page
 title: 杂项
 ---
 
-## 无处安放
-
-* [五条人的商务活动](commercials.html)
-* [五条人乐队：我们最近爱读这三本书](https://apps.apple.com/cn/story/id1550573892)
-
 ## 关于五条人
 
 一个很好玩的乐队，做了很有意思的音乐:)
@@ -33,3 +28,8 @@ title: 杂项
 * [[电台]行走的耳朵](https://www.lizhi.fm/user/395219)
 * [[微博]博尔赫斯书店](https://weibo.com/cantonbon?is_all=1)
 * [微信公众号]五条人铁脯粉 （微信公众号搜索即可）
+
+## 边角
+
+* [五条人的商务活动](commercials.html)
+* [五条人乐队：我们最近爱读这三本书](https://apps.apple.com/cn/story/id1550573892)
