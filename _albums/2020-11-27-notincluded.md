@@ -19,7 +19,7 @@ albumtype: notincluded
 11. [半只麻雀]({% link _songs/2008halfsparrow.md %}){:target="_blank"}
 12. [时间是某天上午]({% link _songs/2006-01-01-morning.md %}){:target="_blank"}
 13. 与刚果先生的对话
-14. 我那可爱的朋友
+14. [我那可爱的朋友]({% link _videos/2007-10-30-daoshan.md %})
 15. 春天
 16. 祈祷的乌鸦
 17. 高等教育
