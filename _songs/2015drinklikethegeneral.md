@@ -54,6 +54,9 @@ tags:
 
 ## 相关链接
 
+- [石延年-万维百科词条](https://www.wanweibaike.net/wiki-%E7%9F%B3%E5%BB%B6%E5%B9%B4)
+  > [张舜民《画墁录》卷一载](https://ctext.org/dictionary.pl?if=gb&remap=gb&char=%E8%8B%8F%E8%88%9C%E9%92%A6%E7%9F%B3%E5%BB%B6%E5%B9%B4%E8%BB%B0%E6%9C%89%E5%90%8D%E6%9B%B0%E9%AC%BC%E9%A5%AE%E4%BA%86%E9%A5%AE%E5%9B%9A%E9%A5%AE%E9%B3%96%E9%A5%AE%E9%B9%A4%E9%A5%AE%E9%AC%BC%E9%A5%AE%E8%80%85%E5%A4%9C%E4%B8%8D%E4%BB%A5%E7%83%A7%E7%83%9B%E4%BA%86%E9%A5%AE%E8%80%85%E9%A5%AE%E6%AC%A1%E6%8C%BD%E6%AD%8C%E5%93%AD%E6%B3%A3%E8%80%8C%E9%A5%AE%E5%9B%9A%E9%A5%AE%E8%80%85%E9%9C%B2%E5%A4%B4%E5%9B%B4%E5%9D%90%E9%B3%96%E9%A5%AE%E8%80%85%E4%BB%A5%E6%AF%9B%E5%B8%AD%E8%87%AA%E8%A4%81%E5%85%B6%E8%BA%AB%E4%BC%B8%E5%A4%B4%E5%87%BA%E9%A5%AE%E6%AF%95%E5%A4%8D%E7%BC%A9%E4%B9%8B%E9%B9%A4%E9%A5%AE%E8%80%85%E4%B8%80%E6%9D%AF%E5%A4%8D%E7%99%BB%E6%A0%91%E4%B8%8B%E5%86%8D%E9%A5%AE%E8%80%B3)：“苏子美（舜饮）、石曼卿（延年）辈饮酒，有名曰鬼饮、了饮、囚饮、鳖饮、鹤饮。鬼饮着，夜不烧烛。了饮者，饮次挽歌哭泣而饮；囚饮者，露头围坐；鳖饮者，以毛席自裹其身，伸头出饮，毕，复缩之；鹤饮者，一杯复登树下再饮耳。”
+
 - [五条人 像将军那样喝酒MV](https://v.youku.com/v_show/id_XMTM2MzY5ODA4NA==.html){:target="_blank"}
 
   <div class="iframe-container"><iframe class="responsive-iframe" src='https://player.youku.com/embed/XMTM2MzY5ODA4NA==' frameborder="no" allowfullscreen="true"></iframe></div>
