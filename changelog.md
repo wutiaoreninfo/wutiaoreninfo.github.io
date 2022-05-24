@@ -11,6 +11,12 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2022.05.24
+
+* 更新 twikoo 至 v1.5.11
+* 更新 algolia CDN 至 staticfile
+* 新增 访谈 20220407 [【NOWNESS\|现在】听说，五条人仁科今年要出小说集？]({% link _interviews/2022-04-07-nowness.md %})
+
 #### 2022.02.09
 
 * 新增 访谈 20220116 [【羊城晚报】万人演唱会预计今春重启，五条人：想在体育馆大喊“山顶的朋友”]({% link _interviews/2022-01-16-ycwb.md%})

@@ -53,8 +53,8 @@ defaults:
 plugins:
   - jekyll-sitemap
 
-cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io@main"
-#cdn: ""
+#cdn: "https://cdn.jsdelivr.net/gh/wutiaoreninfo/wutiaoreninfo.github.io@main"
+cdn: ""
 
 # config for Algolia search
 algolia:
