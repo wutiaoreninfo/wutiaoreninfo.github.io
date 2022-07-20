@@ -8,7 +8,7 @@ title: 留言
 <div id="tcomment" class="comment"></div>
 
 <script src="https://cdn.staticfile.org/twikoo/1.5.11/twikoo.all.min.js"></script>
-<script>twikoo.init({ envId:'https://twikoo-34c4zpe76-wutiaoreninfo.vercel.app', el: '#tcomment', lang: 'zh-CN',})</script>
+<script>twikoo.init({ envId:'https://twikoo-livid-three.vercel.app/', el: '#tcomment', lang: 'zh-CN',})</script>
 {% comment %}
 <script>twikoo.init({ envId:'wutiaoreninfo-2gwrikiwe53b792b', el: '#tcomment', lang: 'zh-CN',})</script>
 {% endcomment %}
