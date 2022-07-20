@@ -11,6 +11,10 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2022.07.20
+
+* Twikoo 由 腾讯云 迁至 Vercel
+
 #### 2022.05.24
 
 * 更新 twikoo 至 v1.5.11
