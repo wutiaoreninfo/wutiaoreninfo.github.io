@@ -11,6 +11,10 @@ title: 更新记录
 
 <hr class="stylish">
 
+#### 2022.07.28
+
+* 新增 作品 20220601 [【橡皮\|仁科】仁科的小说]({% link _works/2022-06-01-xiangpi.md %}) @疯马村画者Dontworry
+
 #### 2022.07.20
 
 * Twikoo 由 腾讯云 迁至 Vercel
