@@ -50,3 +50,4 @@ albumtype: notincluded
 42. [地球恋曲](https://m.weibo.cn/status/4595858731442388?)
 43. [I Do]({% link _songs/2021-05-14-ido.md %})
 44. [Surprise]({% link _songs/2021-05-21-surprise.md %})
+45. [恋曲1980]({% link _songs/2022-09-08-lovesong1980.md %})
