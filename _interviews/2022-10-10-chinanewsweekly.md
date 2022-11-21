@@ -6,6 +6,15 @@ tags:
 - 访谈
 ---
 
+[五条人仁科谈如何克服社恐 如何成为一个“社牛”？怎样才能克服紧张和社恐？](https://www.bilibili.com/video/BV1ud4y1u7qm)
+
+<div class="iframe-container">
+<iframe class="responsive-iframe" src="//player.bilibili.com/player.html?aid=346022425&bvid=BV1ud4y1u7qm&cid=847527266&page=1" frameborder="no" allowfullscreen="true">
+</iframe>
+</div>
+
+<hr class = "stylish">
+
 **原文**：
 [【中国新闻周刊|殷万妮】五条人主唱仁科：我爸比我更适合《披荆斩棘》](https://mp.weixin.qq.com/s/CQseRgyCLhad761GFb5SNA)
 
