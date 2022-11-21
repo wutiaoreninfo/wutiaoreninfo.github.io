@@ -12,7 +12,7 @@ title: 更新记录
 <hr class="stylish">
 
 #### 2022.
-* 新增 访谈 20221116 [【甲乙丙丁|贾樟柯】五条人贾樟柯深夜公交车飙歌对谈]({% link _interviews/2022-11-16-jiayibingding.md %})
+* 新增 访谈 20221116 [【甲乙丙丁\|贾樟柯】五条人贾樟柯深夜公交车飙歌对谈]({% link _interviews/2022-11-16-jiayibingding.md %})
 
 #### 2022.11.15
 
