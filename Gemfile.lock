@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
@@ -87,6 +87,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
     verbal_expressions (0.1.5)
+    webrick (1.8.1)
 
 PLATFORMS
   x64-mingw32
@@ -96,6 +97,7 @@ DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-algolia
   jekyll-sitemap
+  webrick
 
 BUNDLED WITH
    2.0.2
